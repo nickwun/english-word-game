@@ -1,0 +1,701 @@
+{
+  "version": "1.0.0",
+  "purpose": "g3b Unit 1 audio manifest for the English word game",
+  "preferredSource": "Wikimedia Commons / Wiktionary pronunciation audio when available",
+  "notes": [
+    "Download script tries Wikimedia Commons first.",
+    "Some words may not have matching free pronunciation files; those will be listed in reports/audio-download-report.json.",
+    "For missing files, generate or record local audio manually, then set the audio field in vocabulary.json."
+  ],
+  "words": [
+    {
+      "id": "g3b-u1-a-001",
+      "word": "animal",
+      "meaning": "动物",
+      "safeName": "animal",
+      "targetPath": "src/assets/audio/g3b-u1/animal.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/animal.ogg",
+      "candidateCommonsFiles": [
+        "En-us-animal.ogg",
+        "en-us-animal.ogg",
+        "En-us-animal.ogg",
+        "en-us-animal.ogg",
+        "En-uk-animal.ogg",
+        "en-uk-animal.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-002",
+      "word": "bear",
+      "meaning": "熊",
+      "safeName": "bear",
+      "targetPath": "src/assets/audio/g3b-u1/bear.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/bear.ogg",
+      "candidateCommonsFiles": [
+        "En-us-bear.ogg",
+        "en-us-bear.ogg",
+        "En-us-bear.ogg",
+        "en-us-bear.ogg",
+        "En-uk-bear.ogg",
+        "en-uk-bear.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-003",
+      "word": "horse",
+      "meaning": "马",
+      "safeName": "horse",
+      "targetPath": "src/assets/audio/g3b-u1/horse.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/horse.ogg",
+      "candidateCommonsFiles": [
+        "En-us-horse.ogg",
+        "en-us-horse.ogg",
+        "En-us-horse.ogg",
+        "en-us-horse.ogg",
+        "En-uk-horse.ogg",
+        "en-uk-horse.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-004",
+      "word": "bird",
+      "meaning": "鸟",
+      "safeName": "bird",
+      "targetPath": "src/assets/audio/g3b-u1/bird.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/bird.ogg",
+      "candidateCommonsFiles": [
+        "En-us-bird.ogg",
+        "en-us-bird.ogg",
+        "En-us-bird.ogg",
+        "en-us-bird.ogg",
+        "En-uk-bird.ogg",
+        "en-uk-bird.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-005",
+      "word": "panda",
+      "meaning": "熊猫",
+      "safeName": "panda",
+      "targetPath": "src/assets/audio/g3b-u1/panda.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/panda.ogg",
+      "candidateCommonsFiles": [
+        "En-us-panda.ogg",
+        "en-us-panda.ogg",
+        "En-us-panda.ogg",
+        "en-us-panda.ogg",
+        "En-uk-panda.ogg",
+        "en-uk-panda.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-006",
+      "word": "small",
+      "meaning": "小的",
+      "safeName": "small",
+      "targetPath": "src/assets/audio/g3b-u1/small.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/small.ogg",
+      "candidateCommonsFiles": [
+        "En-us-small.ogg",
+        "en-us-small.ogg",
+        "En-us-small.ogg",
+        "en-us-small.ogg",
+        "En-uk-small.ogg",
+        "en-uk-small.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-007",
+      "word": "ear",
+      "meaning": "耳朵",
+      "safeName": "ear",
+      "targetPath": "src/assets/audio/g3b-u1/ear.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/ear.ogg",
+      "candidateCommonsFiles": [
+        "En-us-ear.ogg",
+        "en-us-ear.ogg",
+        "En-us-ear.ogg",
+        "en-us-ear.ogg",
+        "En-uk-ear.ogg",
+        "en-uk-ear.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-008",
+      "word": "eye",
+      "meaning": "眼睛",
+      "safeName": "eye",
+      "targetPath": "src/assets/audio/g3b-u1/eye.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/eye.ogg",
+      "candidateCommonsFiles": [
+        "En-us-eye.ogg",
+        "en-us-eye.ogg",
+        "En-us-eye.ogg",
+        "en-us-eye.ogg",
+        "En-uk-eye.ogg",
+        "en-uk-eye.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-009",
+      "word": "baby",
+      "meaning": "婴儿；幼崽",
+      "safeName": "baby",
+      "targetPath": "src/assets/audio/g3b-u1/baby.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/baby.ogg",
+      "candidateCommonsFiles": [
+        "En-us-baby.ogg",
+        "en-us-baby.ogg",
+        "En-us-baby.ogg",
+        "en-us-baby.ogg",
+        "En-uk-baby.ogg",
+        "en-uk-baby.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-010",
+      "word": "long",
+      "meaning": "长的",
+      "safeName": "long",
+      "targetPath": "src/assets/audio/g3b-u1/long.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/long.ogg",
+      "candidateCommonsFiles": [
+        "En-us-long.ogg",
+        "en-us-long.ogg",
+        "En-us-long.ogg",
+        "en-us-long.ogg",
+        "En-uk-long.ogg",
+        "en-uk-long.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-011",
+      "word": "leg",
+      "meaning": "腿",
+      "safeName": "leg",
+      "targetPath": "src/assets/audio/g3b-u1/leg.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/leg.ogg",
+      "candidateCommonsFiles": [
+        "En-us-leg.ogg",
+        "en-us-leg.ogg",
+        "En-us-leg.ogg",
+        "en-us-leg.ogg",
+        "En-uk-leg.ogg",
+        "en-uk-leg.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-012",
+      "word": "these",
+      "meaning": "这些",
+      "safeName": "these",
+      "targetPath": "src/assets/audio/g3b-u1/these.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/these.ogg",
+      "candidateCommonsFiles": [
+        "En-us-these.ogg",
+        "en-us-these.ogg",
+        "En-us-these.ogg",
+        "en-us-these.ogg",
+        "En-uk-these.ogg",
+        "en-uk-these.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-013",
+      "word": "those",
+      "meaning": "那些",
+      "safeName": "those",
+      "targetPath": "src/assets/audio/g3b-u1/those.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/those.ogg",
+      "candidateCommonsFiles": [
+        "En-us-those.ogg",
+        "en-us-those.ogg",
+        "En-us-those.ogg",
+        "en-us-those.ogg",
+        "En-uk-those.ogg",
+        "en-uk-those.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-014",
+      "word": "jump",
+      "meaning": "跳",
+      "safeName": "jump",
+      "targetPath": "src/assets/audio/g3b-u1/jump.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/jump.ogg",
+      "candidateCommonsFiles": [
+        "En-us-jump.ogg",
+        "en-us-jump.ogg",
+        "En-us-jump.ogg",
+        "en-us-jump.ogg",
+        "En-uk-jump.ogg",
+        "en-uk-jump.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-015",
+      "word": "mouth",
+      "meaning": "嘴巴",
+      "safeName": "mouth",
+      "targetPath": "src/assets/audio/g3b-u1/mouth.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/mouth.ogg",
+      "candidateCommonsFiles": [
+        "En-us-mouth.ogg",
+        "en-us-mouth.ogg",
+        "En-us-mouth.ogg",
+        "en-us-mouth.ogg",
+        "En-uk-mouth.ogg",
+        "en-uk-mouth.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-016",
+      "word": "meat",
+      "meaning": "肉",
+      "safeName": "meat",
+      "targetPath": "src/assets/audio/g3b-u1/meat.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/meat.ogg",
+      "candidateCommonsFiles": [
+        "En-us-meat.ogg",
+        "en-us-meat.ogg",
+        "En-us-meat.ogg",
+        "en-us-meat.ogg",
+        "En-uk-meat.ogg",
+        "en-uk-meat.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-017",
+      "word": "tiger",
+      "meaning": "老虎",
+      "safeName": "tiger",
+      "targetPath": "src/assets/audio/g3b-u1/tiger.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/tiger.ogg",
+      "candidateCommonsFiles": [
+        "En-us-tiger.ogg",
+        "en-us-tiger.ogg",
+        "En-us-tiger.ogg",
+        "en-us-tiger.ogg",
+        "En-uk-tiger.ogg",
+        "en-uk-tiger.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-018",
+      "word": "no",
+      "meaning": "不；不是；没有",
+      "safeName": "no",
+      "targetPath": "src/assets/audio/g3b-u1/no.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/no.ogg",
+      "candidateCommonsFiles": [
+        "En-us-no.ogg",
+        "en-us-no.ogg",
+        "En-us-no.ogg",
+        "en-us-no.ogg",
+        "En-uk-no.ogg",
+        "en-uk-no.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-019",
+      "word": "draw",
+      "meaning": "画",
+      "safeName": "draw",
+      "targetPath": "src/assets/audio/g3b-u1/draw.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/draw.ogg",
+      "candidateCommonsFiles": [
+        "En-us-draw.ogg",
+        "en-us-draw.ogg",
+        "En-us-draw.ogg",
+        "en-us-draw.ogg",
+        "En-uk-draw.ogg",
+        "en-uk-draw.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-020",
+      "word": "nose",
+      "meaning": "鼻子",
+      "safeName": "nose",
+      "targetPath": "src/assets/audio/g3b-u1/nose.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/nose.ogg",
+      "candidateCommonsFiles": [
+        "En-us-nose.ogg",
+        "en-us-nose.ogg",
+        "En-us-nose.ogg",
+        "en-us-nose.ogg",
+        "En-uk-nose.ogg",
+        "en-uk-nose.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-001",
+      "word": "our",
+      "meaning": "我们的",
+      "safeName": "our",
+      "targetPath": "src/assets/audio/g3b-u1/our.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/our.ogg",
+      "candidateCommonsFiles": [
+        "En-us-our.ogg",
+        "en-us-our.ogg",
+        "En-us-our.ogg",
+        "en-us-our.ogg",
+        "En-uk-our.ogg",
+        "en-uk-our.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-002",
+      "word": "can",
+      "meaning": "能；会",
+      "safeName": "can",
+      "targetPath": "src/assets/audio/g3b-u1/can.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/can.ogg",
+      "candidateCommonsFiles": [
+        "En-us-can.ogg",
+        "en-us-can.ogg",
+        "En-us-can.ogg",
+        "en-us-can.ogg",
+        "En-uk-can.ogg",
+        "en-uk-can.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-003",
+      "word": "run",
+      "meaning": "跑",
+      "safeName": "run",
+      "targetPath": "src/assets/audio/g3b-u1/run.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/run.ogg",
+      "candidateCommonsFiles": [
+        "En-us-run.ogg",
+        "en-us-run.ogg",
+        "En-us-run.ogg",
+        "en-us-run.ogg",
+        "En-uk-run.ogg",
+        "en-uk-run.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-004",
+      "word": "fast",
+      "meaning": "快速地；快的",
+      "safeName": "fast",
+      "targetPath": "src/assets/audio/g3b-u1/fast.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/fast.ogg",
+      "candidateCommonsFiles": [
+        "En-us-fast.ogg",
+        "en-us-fast.ogg",
+        "En-us-fast.ogg",
+        "en-us-fast.ogg",
+        "En-uk-fast.ogg",
+        "en-uk-fast.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-005",
+      "word": "beautiful",
+      "meaning": "美丽的；漂亮的",
+      "safeName": "beautiful",
+      "targetPath": "src/assets/audio/g3b-u1/beautiful.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/beautiful.ogg",
+      "candidateCommonsFiles": [
+        "En-us-beautiful.ogg",
+        "en-us-beautiful.ogg",
+        "En-us-beautiful.ogg",
+        "en-us-beautiful.ogg",
+        "En-uk-beautiful.ogg",
+        "en-uk-beautiful.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-006",
+      "word": "bag",
+      "meaning": "包；手提包；袋子",
+      "safeName": "bag",
+      "targetPath": "src/assets/audio/g3b-u1/bag.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/bag.ogg",
+      "candidateCommonsFiles": [
+        "En-us-bag.ogg",
+        "en-us-bag.ogg",
+        "En-us-bag.ogg",
+        "en-us-bag.ogg",
+        "En-uk-bag.ogg",
+        "en-uk-bag.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-007",
+      "word": "hat",
+      "meaning": "帽子",
+      "safeName": "hat",
+      "targetPath": "src/assets/audio/g3b-u1/hat.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/hat.ogg",
+      "candidateCommonsFiles": [
+        "En-us-hat.ogg",
+        "en-us-hat.ogg",
+        "En-us-hat.ogg",
+        "en-us-hat.ogg",
+        "En-uk-hat.ogg",
+        "en-uk-hat.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-008",
+      "word": "like",
+      "meaning": "喜欢；像",
+      "safeName": "like",
+      "targetPath": "src/assets/audio/g3b-u1/like.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/like.ogg",
+      "candidateCommonsFiles": [
+        "En-us-like.ogg",
+        "en-us-like.ogg",
+        "En-us-like.ogg",
+        "en-us-like.ogg",
+        "En-uk-like.ogg",
+        "en-uk-like.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-009",
+      "word": "grass",
+      "meaning": "草",
+      "safeName": "grass",
+      "targetPath": "src/assets/audio/g3b-u1/grass.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/grass.ogg",
+      "candidateCommonsFiles": [
+        "En-us-grass.ogg",
+        "en-us-grass.ogg",
+        "En-us-grass.ogg",
+        "en-us-grass.ogg",
+        "En-uk-grass.ogg",
+        "en-uk-grass.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-010",
+      "word": "ride",
+      "meaning": "骑",
+      "safeName": "ride",
+      "targetPath": "src/assets/audio/g3b-u1/ride.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/ride.ogg",
+      "candidateCommonsFiles": [
+        "En-us-ride.ogg",
+        "en-us-ride.ogg",
+        "En-us-ride.ogg",
+        "en-us-ride.ogg",
+        "En-uk-ride.ogg",
+        "en-uk-ride.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-011",
+      "word": "cool",
+      "meaning": "酷的；凉爽的",
+      "safeName": "cool",
+      "targetPath": "src/assets/audio/g3b-u1/cool.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/cool.ogg",
+      "candidateCommonsFiles": [
+        "En-us-cool.ogg",
+        "en-us-cool.ogg",
+        "En-us-cool.ogg",
+        "en-us-cool.ogg",
+        "En-uk-cool.ogg",
+        "en-uk-cool.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-012",
+      "word": "face",
+      "meaning": "脸",
+      "safeName": "face",
+      "targetPath": "src/assets/audio/g3b-u1/face.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/face.ogg",
+      "candidateCommonsFiles": [
+        "En-us-face.ogg",
+        "en-us-face.ogg",
+        "En-us-face.ogg",
+        "en-us-face.ogg",
+        "En-uk-face.ogg",
+        "en-uk-face.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-013",
+      "word": "guess",
+      "meaning": "猜",
+      "safeName": "guess",
+      "targetPath": "src/assets/audio/g3b-u1/guess.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/guess.ogg",
+      "candidateCommonsFiles": [
+        "En-us-guess.ogg",
+        "en-us-guess.ogg",
+        "En-us-guess.ogg",
+        "en-us-guess.ogg",
+        "En-uk-guess.ogg",
+        "en-uk-guess.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-014",
+      "word": "carrot",
+      "meaning": "胡萝卜",
+      "safeName": "carrot",
+      "targetPath": "src/assets/audio/g3b-u1/carrot.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/carrot.ogg",
+      "candidateCommonsFiles": [
+        "En-us-carrot.ogg",
+        "en-us-carrot.ogg",
+        "En-us-carrot.ogg",
+        "en-us-carrot.ogg",
+        "En-uk-carrot.ogg",
+        "en-uk-carrot.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-015",
+      "word": "not",
+      "meaning": "不；没有",
+      "safeName": "not",
+      "targetPath": "src/assets/audio/g3b-u1/not.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/not.ogg",
+      "candidateCommonsFiles": [
+        "En-us-not.ogg",
+        "en-us-not.ogg",
+        "En-us-not.ogg",
+        "en-us-not.ogg",
+        "En-uk-not.ogg",
+        "en-uk-not.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-016",
+      "word": "isn't",
+      "meaning": "不是",
+      "safeName": "isnt",
+      "targetPath": "src/assets/audio/g3b-u1/isnt.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/isnt.ogg",
+      "candidateCommonsFiles": [
+        "En-us-isn't.ogg",
+        "en-us-isn't.ogg",
+        "En-us-isnt.ogg",
+        "en-us-isnt.ogg",
+        "En-uk-isn't.ogg",
+        "en-uk-isn't.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-017",
+      "word": "Mr.",
+      "meaning": "先生",
+      "safeName": "mr",
+      "targetPath": "src/assets/audio/g3b-u1/mr.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/mr.ogg",
+      "candidateCommonsFiles": [
+        "En-us-Mr..ogg",
+        "en-us-Mr..ogg",
+        "En-us-mr.ogg",
+        "en-us-mr.ogg",
+        "En-uk-Mr..ogg",
+        "en-uk-Mr..ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-018",
+      "word": "mouse",
+      "meaning": "老鼠",
+      "safeName": "mouse",
+      "targetPath": "src/assets/audio/g3b-u1/mouse.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/mouse.ogg",
+      "candidateCommonsFiles": [
+        "En-us-mouse.ogg",
+        "en-us-mouse.ogg",
+        "En-us-mouse.ogg",
+        "en-us-mouse.ogg",
+        "En-uk-mouse.ogg",
+        "en-uk-mouse.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-019",
+      "word": "together",
+      "meaning": "一起",
+      "safeName": "together",
+      "targetPath": "src/assets/audio/g3b-u1/together.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/together.ogg",
+      "candidateCommonsFiles": [
+        "En-us-together.ogg",
+        "en-us-together.ogg",
+        "En-us-together.ogg",
+        "en-us-together.ogg",
+        "En-uk-together.ogg",
+        "en-uk-together.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-020",
+      "word": "all",
+      "meaning": "全部",
+      "safeName": "all",
+      "targetPath": "src/assets/audio/g3b-u1/all.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/all.ogg",
+      "candidateCommonsFiles": [
+        "En-us-all.ogg",
+        "en-us-all.ogg",
+        "En-us-all.ogg",
+        "en-us-all.ogg",
+        "En-uk-all.ogg",
+        "en-uk-all.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-021",
+      "word": "brown",
+      "meaning": "棕色的；棕色",
+      "safeName": "brown",
+      "targetPath": "src/assets/audio/g3b-u1/brown.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/brown.ogg",
+      "candidateCommonsFiles": [
+        "En-us-brown.ogg",
+        "en-us-brown.ogg",
+        "En-us-brown.ogg",
+        "en-us-brown.ogg",
+        "En-uk-brown.ogg",
+        "en-uk-brown.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-022",
+      "word": "lovely",
+      "meaning": "可爱的",
+      "safeName": "lovely",
+      "targetPath": "src/assets/audio/g3b-u1/lovely.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/lovely.ogg",
+      "candidateCommonsFiles": [
+        "En-us-lovely.ogg",
+        "en-us-lovely.ogg",
+        "En-us-lovely.ogg",
+        "en-us-lovely.ogg",
+        "En-uk-lovely.ogg",
+        "en-uk-lovely.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-023",
+      "word": "see",
+      "meaning": "看见；看到",
+      "safeName": "see",
+      "targetPath": "src/assets/audio/g3b-u1/see.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/see.ogg",
+      "candidateCommonsFiles": [
+        "En-us-see.ogg",
+        "en-us-see.ogg",
+        "En-us-see.ogg",
+        "en-us-see.ogg",
+        "En-uk-see.ogg",
+        "en-uk-see.ogg"
+      ]
+    }
+  ],
+  "items": []
+}

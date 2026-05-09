@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g3a-u1-a-008",
+    "word": "hi",
+    "meaning": "你好",
+    "safeName": "hi",
+    "targetMp3": "src/assets/audio/g3a-u1/hi.mp3",
+    "audioFieldValue": "assets/audio/g3a-u1/hi.mp3"
+  },
+  {
+    "id": "g3a-u2-a-012",
+    "word": "duck",
+    "meaning": "鸭子",
+    "safeName": "duck",
+    "targetMp3": "src/assets/audio/g3a-u2/duck.mp3",
+    "audioFieldValue": "assets/audio/g3a-u2/duck.mp3"
+  },
+  {
+    "id": "g3a-u4-a-009",
+    "word": "who",
+    "meaning": "谁",
+    "safeName": "who",
+    "targetMp3": "src/assets/audio/g3a-u4/who.mp3",
+    "audioFieldValue": "assets/audio/g3a-u4/who.mp3"
+  }
+]

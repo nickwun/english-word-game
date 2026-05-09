@@ -1,0 +1,2054 @@
+{
+  "generatedAt": "2026-05-09T03:00:20.728Z",
+  "updated": [
+    {
+      "id": "g3a-u1-a-001",
+      "unitId": "g3a-u1",
+      "word": "hello",
+      "safeName": "hello",
+      "audioFieldValue": "assets/audio/g3a-u1/hello.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-002",
+      "unitId": "g3a-u1",
+      "word": "I",
+      "safeName": "i",
+      "audioFieldValue": "assets/audio/g3a-u1/i.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-003",
+      "unitId": "g3a-u1",
+      "word": "Miss",
+      "safeName": "miss",
+      "audioFieldValue": "assets/audio/g3a-u1/miss.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-004",
+      "unitId": "g3a-u1",
+      "word": "nice",
+      "safeName": "nice",
+      "audioFieldValue": "assets/audio/g3a-u1/nice.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-005",
+      "unitId": "g3a-u1",
+      "word": "meet",
+      "safeName": "meet",
+      "audioFieldValue": "assets/audio/g3a-u1/meet.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-006",
+      "unitId": "g3a-u1",
+      "word": "you",
+      "safeName": "you",
+      "audioFieldValue": "assets/audio/g3a-u1/you.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-007",
+      "unitId": "g3a-u1",
+      "word": "am",
+      "safeName": "am",
+      "audioFieldValue": "assets/audio/g3a-u1/am.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-008",
+      "unitId": "g3a-u1",
+      "word": "hi",
+      "safeName": "hi",
+      "audioFieldValue": "assets/audio/g3a-u1/hi.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-009",
+      "unitId": "g3a-u1",
+      "word": "what",
+      "safeName": "what",
+      "audioFieldValue": "assets/audio/g3a-u1/what.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-010",
+      "unitId": "g3a-u1",
+      "word": "is",
+      "safeName": "is",
+      "audioFieldValue": "assets/audio/g3a-u1/is.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-011",
+      "unitId": "g3a-u1",
+      "word": "your",
+      "safeName": "your",
+      "audioFieldValue": "assets/audio/g3a-u1/your.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-012",
+      "unitId": "g3a-u1",
+      "word": "name",
+      "safeName": "name",
+      "audioFieldValue": "assets/audio/g3a-u1/name.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-013",
+      "unitId": "g3a-u1",
+      "word": "my",
+      "safeName": "my",
+      "audioFieldValue": "assets/audio/g3a-u1/my.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-014",
+      "unitId": "g3a-u1",
+      "word": "good",
+      "safeName": "good",
+      "audioFieldValue": "assets/audio/g3a-u1/good.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-015",
+      "unitId": "g3a-u1",
+      "word": "morning",
+      "safeName": "morning",
+      "audioFieldValue": "assets/audio/g3a-u1/morning.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-016",
+      "unitId": "g3a-u1",
+      "word": "how",
+      "safeName": "how",
+      "audioFieldValue": "assets/audio/g3a-u1/how.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-017",
+      "unitId": "g3a-u1",
+      "word": "are",
+      "safeName": "are",
+      "audioFieldValue": "assets/audio/g3a-u1/are.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-018",
+      "unitId": "g3a-u1",
+      "word": "fine",
+      "safeName": "fine",
+      "audioFieldValue": "assets/audio/g3a-u1/fine.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-019",
+      "unitId": "g3a-u1",
+      "word": "afternoon",
+      "safeName": "afternoon",
+      "audioFieldValue": "assets/audio/g3a-u1/afternoon.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-020",
+      "unitId": "g3a-u1",
+      "word": "thank",
+      "safeName": "thank",
+      "audioFieldValue": "assets/audio/g3a-u1/thank.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-021",
+      "unitId": "g3a-u1",
+      "word": "mom",
+      "safeName": "mom",
+      "audioFieldValue": "assets/audio/g3a-u1/mom.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-022",
+      "unitId": "g3a-u1",
+      "word": "this",
+      "safeName": "this",
+      "audioFieldValue": "assets/audio/g3a-u1/this.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-023",
+      "unitId": "g3a-u1",
+      "word": "goodbye",
+      "safeName": "goodbye",
+      "audioFieldValue": "assets/audio/g3a-u1/goodbye.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-024",
+      "unitId": "g3a-u1",
+      "word": "have",
+      "safeName": "have",
+      "audioFieldValue": "assets/audio/g3a-u1/have.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u1-a-025",
+      "unitId": "g3a-u1",
+      "word": "day",
+      "safeName": "day",
+      "audioFieldValue": "assets/audio/g3a-u1/day.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-001",
+      "unitId": "g3a-u2",
+      "word": "one",
+      "safeName": "one",
+      "audioFieldValue": "assets/audio/g3a-u2/one.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-002",
+      "unitId": "g3a-u2",
+      "word": "two",
+      "safeName": "two",
+      "audioFieldValue": "assets/audio/g3a-u2/two.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-003",
+      "unitId": "g3a-u2",
+      "word": "three",
+      "safeName": "three",
+      "audioFieldValue": "assets/audio/g3a-u2/three.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-004",
+      "unitId": "g3a-u2",
+      "word": "four",
+      "safeName": "four",
+      "audioFieldValue": "assets/audio/g3a-u2/four.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-005",
+      "unitId": "g3a-u2",
+      "word": "five",
+      "safeName": "five",
+      "audioFieldValue": "assets/audio/g3a-u2/five.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-006",
+      "unitId": "g3a-u2",
+      "word": "six",
+      "safeName": "six",
+      "audioFieldValue": "assets/audio/g3a-u2/six.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-007",
+      "unitId": "g3a-u2",
+      "word": "seven",
+      "safeName": "seven",
+      "audioFieldValue": "assets/audio/g3a-u2/seven.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-008",
+      "unitId": "g3a-u2",
+      "word": "eight",
+      "safeName": "eight",
+      "audioFieldValue": "assets/audio/g3a-u2/eight.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-009",
+      "unitId": "g3a-u2",
+      "word": "nine",
+      "safeName": "nine",
+      "audioFieldValue": "assets/audio/g3a-u2/nine.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-010",
+      "unitId": "g3a-u2",
+      "word": "ten",
+      "safeName": "ten",
+      "audioFieldValue": "assets/audio/g3a-u2/ten.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-011",
+      "unitId": "g3a-u2",
+      "word": "many",
+      "safeName": "many",
+      "audioFieldValue": "assets/audio/g3a-u2/many.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-012",
+      "unitId": "g3a-u2",
+      "word": "duck",
+      "safeName": "duck",
+      "audioFieldValue": "assets/audio/g3a-u2/duck.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-013",
+      "unitId": "g3a-u2",
+      "word": "that",
+      "safeName": "that",
+      "audioFieldValue": "assets/audio/g3a-u2/that.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-014",
+      "unitId": "g3a-u2",
+      "word": "go",
+      "safeName": "go",
+      "audioFieldValue": "assets/audio/g3a-u2/go.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-015",
+      "unitId": "g3a-u2",
+      "word": "old",
+      "safeName": "old",
+      "audioFieldValue": "assets/audio/g3a-u2/old.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-016",
+      "unitId": "g3a-u2",
+      "word": "year",
+      "safeName": "year",
+      "audioFieldValue": "assets/audio/g3a-u2/year.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-017",
+      "unitId": "g3a-u2",
+      "word": "it",
+      "safeName": "it",
+      "audioFieldValue": "assets/audio/g3a-u2/it.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-018",
+      "unitId": "g3a-u2",
+      "word": "phone",
+      "safeName": "phone",
+      "audioFieldValue": "assets/audio/g3a-u2/phone.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u2-a-019",
+      "unitId": "g3a-u2",
+      "word": "pet",
+      "safeName": "pet",
+      "audioFieldValue": "assets/audio/g3a-u2/pet.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-001",
+      "unitId": "g3a-u3",
+      "word": "stop",
+      "safeName": "stop",
+      "audioFieldValue": "assets/audio/g3a-u3/stop.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-002",
+      "unitId": "g3a-u3",
+      "word": "light",
+      "safeName": "light",
+      "audioFieldValue": "assets/audio/g3a-u3/light.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-003",
+      "unitId": "g3a-u3",
+      "word": "red",
+      "safeName": "red",
+      "audioFieldValue": "assets/audio/g3a-u3/red.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-004",
+      "unitId": "g3a-u3",
+      "word": "green",
+      "safeName": "green",
+      "audioFieldValue": "assets/audio/g3a-u3/green.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-005",
+      "unitId": "g3a-u3",
+      "word": "color",
+      "safeName": "color",
+      "audioFieldValue": "assets/audio/g3a-u3/color.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-006",
+      "unitId": "g3a-u3",
+      "word": "blue",
+      "safeName": "blue",
+      "audioFieldValue": "assets/audio/g3a-u3/blue.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-007",
+      "unitId": "g3a-u3",
+      "word": "yellow",
+      "safeName": "yellow",
+      "audioFieldValue": "assets/audio/g3a-u3/yellow.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-008",
+      "unitId": "g3a-u3",
+      "word": "white",
+      "safeName": "white",
+      "audioFieldValue": "assets/audio/g3a-u3/white.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-009",
+      "unitId": "g3a-u3",
+      "word": "pink",
+      "safeName": "pink",
+      "audioFieldValue": "assets/audio/g3a-u3/pink.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-010",
+      "unitId": "g3a-u3",
+      "word": "orange",
+      "safeName": "orange",
+      "audioFieldValue": "assets/audio/g3a-u3/orange.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-011",
+      "unitId": "g3a-u3",
+      "word": "schoolbag",
+      "safeName": "schoolbag",
+      "audioFieldValue": "assets/audio/g3a-u3/schoolbag.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-012",
+      "unitId": "g3a-u3",
+      "word": "pencil",
+      "safeName": "pencil",
+      "audioFieldValue": "assets/audio/g3a-u3/pencil.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-013",
+      "unitId": "g3a-u3",
+      "word": "pencil box",
+      "safeName": "pencil-box",
+      "audioFieldValue": "assets/audio/g3a-u3/pencil-box.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-014",
+      "unitId": "g3a-u3",
+      "word": "pen",
+      "safeName": "pen",
+      "audioFieldValue": "assets/audio/g3a-u3/pen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-015",
+      "unitId": "g3a-u3",
+      "word": "ruler",
+      "safeName": "ruler",
+      "audioFieldValue": "assets/audio/g3a-u3/ruler.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-016",
+      "unitId": "g3a-u3",
+      "word": "black",
+      "safeName": "black",
+      "audioFieldValue": "assets/audio/g3a-u3/black.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-017",
+      "unitId": "g3a-u3",
+      "word": "flower",
+      "safeName": "flower",
+      "audioFieldValue": "assets/audio/g3a-u3/flower.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-018",
+      "unitId": "g3a-u3",
+      "word": "draw",
+      "safeName": "draw",
+      "audioFieldValue": "assets/audio/g3a-u3/draw.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-019",
+      "unitId": "g3a-u3",
+      "word": "cut",
+      "safeName": "cut",
+      "audioFieldValue": "assets/audio/g3a-u3/cut.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-020",
+      "unitId": "g3a-u3",
+      "word": "make",
+      "safeName": "make",
+      "audioFieldValue": "assets/audio/g3a-u3/make.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u3-a-021",
+      "unitId": "g3a-u3",
+      "word": "they",
+      "safeName": "they",
+      "audioFieldValue": "assets/audio/g3a-u3/they.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-001",
+      "unitId": "g3a-u4",
+      "word": "father",
+      "safeName": "father",
+      "audioFieldValue": "assets/audio/g3a-u4/father.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-002",
+      "unitId": "g3a-u4",
+      "word": "mother",
+      "safeName": "mother",
+      "audioFieldValue": "assets/audio/g3a-u4/mother.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-003",
+      "unitId": "g3a-u4",
+      "word": "brother",
+      "safeName": "brother",
+      "audioFieldValue": "assets/audio/g3a-u4/brother.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-004",
+      "unitId": "g3a-u4",
+      "word": "sister",
+      "safeName": "sister",
+      "audioFieldValue": "assets/audio/g3a-u4/sister.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-005",
+      "unitId": "g3a-u4",
+      "word": "cake",
+      "safeName": "cake",
+      "audioFieldValue": "assets/audio/g3a-u4/cake.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-006",
+      "unitId": "g3a-u4",
+      "word": "grandma",
+      "safeName": "grandma",
+      "audioFieldValue": "assets/audio/g3a-u4/grandma.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-007",
+      "unitId": "g3a-u4",
+      "word": "grandpa",
+      "safeName": "grandpa",
+      "audioFieldValue": "assets/audio/g3a-u4/grandpa.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-008",
+      "unitId": "g3a-u4",
+      "word": "we",
+      "safeName": "we",
+      "audioFieldValue": "assets/audio/g3a-u4/we.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-009",
+      "unitId": "g3a-u4",
+      "word": "who",
+      "safeName": "who",
+      "audioFieldValue": "assets/audio/g3a-u4/who.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-010",
+      "unitId": "g3a-u4",
+      "word": "he",
+      "safeName": "he",
+      "audioFieldValue": "assets/audio/g3a-u4/he.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-011",
+      "unitId": "g3a-u4",
+      "word": "she",
+      "safeName": "she",
+      "audioFieldValue": "assets/audio/g3a-u4/she.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-012",
+      "unitId": "g3a-u4",
+      "word": "family",
+      "safeName": "family",
+      "audioFieldValue": "assets/audio/g3a-u4/family.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-013",
+      "unitId": "g3a-u4",
+      "word": "doctor",
+      "safeName": "doctor",
+      "audioFieldValue": "assets/audio/g3a-u4/doctor.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-014",
+      "unitId": "g3a-u4",
+      "word": "farmer",
+      "safeName": "farmer",
+      "audioFieldValue": "assets/audio/g3a-u4/farmer.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-015",
+      "unitId": "g3a-u4",
+      "word": "cook",
+      "safeName": "cook",
+      "audioFieldValue": "assets/audio/g3a-u4/cook.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-016",
+      "unitId": "g3a-u4",
+      "word": "uncle",
+      "safeName": "uncle",
+      "audioFieldValue": "assets/audio/g3a-u4/uncle.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-017",
+      "unitId": "g3a-u4",
+      "word": "worker",
+      "safeName": "worker",
+      "audioFieldValue": "assets/audio/g3a-u4/worker.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-018",
+      "unitId": "g3a-u4",
+      "word": "aunt",
+      "safeName": "aunt",
+      "audioFieldValue": "assets/audio/g3a-u4/aunt.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-019",
+      "unitId": "g3a-u4",
+      "word": "nurse",
+      "safeName": "nurse",
+      "audioFieldValue": "assets/audio/g3a-u4/nurse.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-020",
+      "unitId": "g3a-u4",
+      "word": "love",
+      "safeName": "love",
+      "audioFieldValue": "assets/audio/g3a-u4/love.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3a-u4-a-021",
+      "unitId": "g3a-u4",
+      "word": "big",
+      "safeName": "big",
+      "audioFieldValue": "assets/audio/g3a-u4/big.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-001",
+      "unitId": "g3b-u1",
+      "word": "animal",
+      "safeName": "animal",
+      "audioFieldValue": "assets/audio/g3b-u1/animal.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-002",
+      "unitId": "g3b-u1",
+      "word": "bear",
+      "safeName": "bear",
+      "audioFieldValue": "assets/audio/g3b-u1/bear.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-003",
+      "unitId": "g3b-u1",
+      "word": "horse",
+      "safeName": "horse",
+      "audioFieldValue": "assets/audio/g3b-u1/horse.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-004",
+      "unitId": "g3b-u1",
+      "word": "bird",
+      "safeName": "bird",
+      "audioFieldValue": "assets/audio/g3b-u1/bird.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-005",
+      "unitId": "g3b-u1",
+      "word": "panda",
+      "safeName": "panda",
+      "audioFieldValue": "assets/audio/g3b-u1/panda.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-006",
+      "unitId": "g3b-u1",
+      "word": "small",
+      "safeName": "small",
+      "audioFieldValue": "assets/audio/g3b-u1/small.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-007",
+      "unitId": "g3b-u1",
+      "word": "ear",
+      "safeName": "ear",
+      "audioFieldValue": "assets/audio/g3b-u1/ear.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-008",
+      "unitId": "g3b-u1",
+      "word": "eye",
+      "safeName": "eye",
+      "audioFieldValue": "assets/audio/g3b-u1/eye.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-009",
+      "unitId": "g3b-u1",
+      "word": "baby",
+      "safeName": "baby",
+      "audioFieldValue": "assets/audio/g3b-u1/baby.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-010",
+      "unitId": "g3b-u1",
+      "word": "long",
+      "safeName": "long",
+      "audioFieldValue": "assets/audio/g3b-u1/long.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-011",
+      "unitId": "g3b-u1",
+      "word": "leg",
+      "safeName": "leg",
+      "audioFieldValue": "assets/audio/g3b-u1/leg.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-012",
+      "unitId": "g3b-u1",
+      "word": "these",
+      "safeName": "these",
+      "audioFieldValue": "assets/audio/g3b-u1/these.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-013",
+      "unitId": "g3b-u1",
+      "word": "those",
+      "safeName": "those",
+      "audioFieldValue": "assets/audio/g3b-u1/those.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-014",
+      "unitId": "g3b-u1",
+      "word": "jump",
+      "safeName": "jump",
+      "audioFieldValue": "assets/audio/g3b-u1/jump.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-015",
+      "unitId": "g3b-u1",
+      "word": "mouth",
+      "safeName": "mouth",
+      "audioFieldValue": "assets/audio/g3b-u1/mouth.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-016",
+      "unitId": "g3b-u1",
+      "word": "meat",
+      "safeName": "meat",
+      "audioFieldValue": "assets/audio/g3b-u1/meat.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-017",
+      "unitId": "g3b-u1",
+      "word": "tiger",
+      "safeName": "tiger",
+      "audioFieldValue": "assets/audio/g3b-u1/tiger.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-018",
+      "unitId": "g3b-u1",
+      "word": "no",
+      "safeName": "no",
+      "audioFieldValue": "assets/audio/g3b-u1/no.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-019",
+      "unitId": "g3b-u1",
+      "word": "draw",
+      "safeName": "draw",
+      "audioFieldValue": "assets/audio/g3b-u1/draw.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-a-020",
+      "unitId": "g3b-u1",
+      "word": "nose",
+      "safeName": "nose",
+      "audioFieldValue": "assets/audio/g3b-u1/nose.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-001",
+      "unitId": "g3b-u1",
+      "word": "our",
+      "safeName": "our",
+      "audioFieldValue": "assets/audio/g3b-u1/our.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-002",
+      "unitId": "g3b-u1",
+      "word": "can",
+      "safeName": "can",
+      "audioFieldValue": "assets/audio/g3b-u1/can.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-003",
+      "unitId": "g3b-u1",
+      "word": "run",
+      "safeName": "run",
+      "audioFieldValue": "assets/audio/g3b-u1/run.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-004",
+      "unitId": "g3b-u1",
+      "word": "fast",
+      "safeName": "fast",
+      "audioFieldValue": "assets/audio/g3b-u1/fast.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-005",
+      "unitId": "g3b-u1",
+      "word": "beautiful",
+      "safeName": "beautiful",
+      "audioFieldValue": "assets/audio/g3b-u1/beautiful.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-006",
+      "unitId": "g3b-u1",
+      "word": "bag",
+      "safeName": "bag",
+      "audioFieldValue": "assets/audio/g3b-u1/bag.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-007",
+      "unitId": "g3b-u1",
+      "word": "hat",
+      "safeName": "hat",
+      "audioFieldValue": "assets/audio/g3b-u1/hat.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-008",
+      "unitId": "g3b-u1",
+      "word": "like",
+      "safeName": "like",
+      "audioFieldValue": "assets/audio/g3b-u1/like.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-009",
+      "unitId": "g3b-u1",
+      "word": "grass",
+      "safeName": "grass",
+      "audioFieldValue": "assets/audio/g3b-u1/grass.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-010",
+      "unitId": "g3b-u1",
+      "word": "ride",
+      "safeName": "ride",
+      "audioFieldValue": "assets/audio/g3b-u1/ride.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-011",
+      "unitId": "g3b-u1",
+      "word": "cool",
+      "safeName": "cool",
+      "audioFieldValue": "assets/audio/g3b-u1/cool.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-012",
+      "unitId": "g3b-u1",
+      "word": "face",
+      "safeName": "face",
+      "audioFieldValue": "assets/audio/g3b-u1/face.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-013",
+      "unitId": "g3b-u1",
+      "word": "guess",
+      "safeName": "guess",
+      "audioFieldValue": "assets/audio/g3b-u1/guess.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-014",
+      "unitId": "g3b-u1",
+      "word": "carrot",
+      "safeName": "carrot",
+      "audioFieldValue": "assets/audio/g3b-u1/carrot.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-015",
+      "unitId": "g3b-u1",
+      "word": "not",
+      "safeName": "not",
+      "audioFieldValue": "assets/audio/g3b-u1/not.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-016",
+      "unitId": "g3b-u1",
+      "word": "isn't",
+      "safeName": "isnt",
+      "audioFieldValue": "assets/audio/g3b-u1/isnt.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-017",
+      "unitId": "g3b-u1",
+      "word": "Mr.",
+      "safeName": "mr",
+      "audioFieldValue": "assets/audio/g3b-u1/mr.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-018",
+      "unitId": "g3b-u1",
+      "word": "mouse",
+      "safeName": "mouse",
+      "audioFieldValue": "assets/audio/g3b-u1/mouse.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-019",
+      "unitId": "g3b-u1",
+      "word": "together",
+      "safeName": "together",
+      "audioFieldValue": "assets/audio/g3b-u1/together.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-020",
+      "unitId": "g3b-u1",
+      "word": "all",
+      "safeName": "all",
+      "audioFieldValue": "assets/audio/g3b-u1/all.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-021",
+      "unitId": "g3b-u1",
+      "word": "brown",
+      "safeName": "brown",
+      "audioFieldValue": "assets/audio/g3b-u1/brown.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-022",
+      "unitId": "g3b-u1",
+      "word": "lovely",
+      "safeName": "lovely",
+      "audioFieldValue": "assets/audio/g3b-u1/lovely.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u1-b-023",
+      "unitId": "g3b-u1",
+      "word": "see",
+      "safeName": "see",
+      "audioFieldValue": "assets/audio/g3b-u1/see.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-001",
+      "unitId": "g3b-u2",
+      "word": "clothes",
+      "safeName": "clothes",
+      "audioFieldValue": "assets/audio/g3b-u2/clothes.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-002",
+      "unitId": "g3b-u2",
+      "word": "size",
+      "safeName": "size",
+      "audioFieldValue": "assets/audio/g3b-u2/size.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-003",
+      "unitId": "g3b-u2",
+      "word": "do",
+      "safeName": "do",
+      "audioFieldValue": "assets/audio/g3b-u2/do.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-004",
+      "unitId": "g3b-u2",
+      "word": "wear",
+      "safeName": "wear",
+      "audioFieldValue": "assets/audio/g3b-u2/wear.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-005",
+      "unitId": "g3b-u2",
+      "word": "T-shirt",
+      "safeName": "t-shirt",
+      "audioFieldValue": "assets/audio/g3b-u2/t-shirt.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-006",
+      "unitId": "g3b-u2",
+      "word": "whose",
+      "safeName": "whose",
+      "audioFieldValue": "assets/audio/g3b-u2/whose.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-007",
+      "unitId": "g3b-u2",
+      "word": "shirt",
+      "safeName": "shirt",
+      "audioFieldValue": "assets/audio/g3b-u2/shirt.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-008",
+      "unitId": "g3b-u2",
+      "word": "where",
+      "safeName": "where",
+      "audioFieldValue": "assets/audio/g3b-u2/where.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-009",
+      "unitId": "g3b-u2",
+      "word": "sweater",
+      "safeName": "sweater",
+      "audioFieldValue": "assets/audio/g3b-u2/sweater.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-010",
+      "unitId": "g3b-u2",
+      "word": "bed",
+      "safeName": "bed",
+      "audioFieldValue": "assets/audio/g3b-u2/bed.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-011",
+      "unitId": "g3b-u2",
+      "word": "under",
+      "safeName": "under",
+      "audioFieldValue": "assets/audio/g3b-u2/under.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-012",
+      "unitId": "g3b-u2",
+      "word": "chair",
+      "safeName": "chair",
+      "audioFieldValue": "assets/audio/g3b-u2/chair.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-013",
+      "unitId": "g3b-u2",
+      "word": "put on",
+      "safeName": "put-on",
+      "audioFieldValue": "assets/audio/g3b-u2/put-on.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-014",
+      "unitId": "g3b-u2",
+      "word": "shoe",
+      "safeName": "shoe",
+      "audioFieldValue": "assets/audio/g3b-u2/shoe.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-015",
+      "unitId": "g3b-u2",
+      "word": "shorts",
+      "safeName": "shorts",
+      "audioFieldValue": "assets/audio/g3b-u2/shorts.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-016",
+      "unitId": "g3b-u2",
+      "word": "PE",
+      "safeName": "pe",
+      "audioFieldValue": "assets/audio/g3b-u2/pe.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-017",
+      "unitId": "g3b-u2",
+      "word": "swim",
+      "safeName": "swim",
+      "audioFieldValue": "assets/audio/g3b-u2/swim.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-018",
+      "unitId": "g3b-u2",
+      "word": "bike",
+      "safeName": "bike",
+      "audioFieldValue": "assets/audio/g3b-u2/bike.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-019",
+      "unitId": "g3b-u2",
+      "word": "sport",
+      "safeName": "sport",
+      "audioFieldValue": "assets/audio/g3b-u2/sport.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-a-020",
+      "unitId": "g3b-u2",
+      "word": "want",
+      "safeName": "want",
+      "audioFieldValue": "assets/audio/g3b-u2/want.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-001",
+      "unitId": "g3b-u2",
+      "word": "team",
+      "safeName": "team",
+      "audioFieldValue": "assets/audio/g3b-u2/team.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-002",
+      "unitId": "g3b-u2",
+      "word": "sports ground",
+      "safeName": "sports-ground",
+      "audioFieldValue": "assets/audio/g3b-u2/sports-ground.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-003",
+      "unitId": "g3b-u2",
+      "word": "not",
+      "safeName": "not",
+      "audioFieldValue": "assets/audio/g3b-u2/not.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-004",
+      "unitId": "g3b-u2",
+      "word": "isn't = is not",
+      "safeName": "isnt-is-not",
+      "audioFieldValue": "assets/audio/g3b-u2/isnt-is-not.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-005",
+      "unitId": "g3b-u2",
+      "word": "room",
+      "safeName": "room",
+      "audioFieldValue": "assets/audio/g3b-u2/room.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-006",
+      "unitId": "g3b-u2",
+      "word": "very",
+      "safeName": "very",
+      "audioFieldValue": "assets/audio/g3b-u2/very.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-007",
+      "unitId": "g3b-u2",
+      "word": "much",
+      "safeName": "much",
+      "audioFieldValue": "assets/audio/g3b-u2/much.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-008",
+      "unitId": "g3b-u2",
+      "word": "you're = you are",
+      "safeName": "youre-you-are",
+      "audioFieldValue": "assets/audio/g3b-u2/youre-you-are.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-009",
+      "unitId": "g3b-u2",
+      "word": "dear",
+      "safeName": "dear",
+      "audioFieldValue": "assets/audio/g3b-u2/dear.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-010",
+      "unitId": "g3b-u2",
+      "word": "put away",
+      "safeName": "put-away",
+      "audioFieldValue": "assets/audio/g3b-u2/put-away.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-011",
+      "unitId": "g3b-u2",
+      "word": "box",
+      "safeName": "box",
+      "audioFieldValue": "assets/audio/g3b-u2/box.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-012",
+      "unitId": "g3b-u2",
+      "word": "forest",
+      "safeName": "forest",
+      "audioFieldValue": "assets/audio/g3b-u2/forest.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-013",
+      "unitId": "g3b-u2",
+      "word": "can't = cannot",
+      "safeName": "cant-cannot",
+      "audioFieldValue": "assets/audio/g3b-u2/cant-cannot.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-b-014",
+      "unitId": "g3b-u2",
+      "word": "skirt",
+      "safeName": "skirt",
+      "audioFieldValue": "assets/audio/g3b-u2/skirt.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-nice",
+      "unitId": "g3b-u2",
+      "word": "nice",
+      "safeName": "nice",
+      "audioFieldValue": "assets/audio/g3b-u2/nice.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-but",
+      "unitId": "g3b-u2",
+      "word": "but",
+      "safeName": "but",
+      "audioFieldValue": "assets/audio/g3b-u2/but.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-too",
+      "unitId": "g3b-u2",
+      "word": "too",
+      "safeName": "too",
+      "audioFieldValue": "assets/audio/g3b-u2/too.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-put",
+      "unitId": "g3b-u2",
+      "word": "put",
+      "safeName": "put",
+      "audioFieldValue": "assets/audio/g3b-u2/put.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-on",
+      "unitId": "g3b-u2",
+      "word": "on",
+      "safeName": "on",
+      "audioFieldValue": "assets/audio/g3b-u2/on.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-hat",
+      "unitId": "g3b-u2",
+      "word": "hat",
+      "safeName": "hat",
+      "audioFieldValue": "assets/audio/g3b-u2/hat.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-sock",
+      "unitId": "g3b-u2",
+      "word": "sock",
+      "safeName": "sock",
+      "audioFieldValue": "assets/audio/g3b-u2/sock.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-new",
+      "unitId": "g3b-u2",
+      "word": "new",
+      "safeName": "new",
+      "audioFieldValue": "assets/audio/g3b-u2/new.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-school",
+      "unitId": "g3b-u2",
+      "word": "school",
+      "safeName": "school",
+      "audioFieldValue": "assets/audio/g3b-u2/school.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-bag",
+      "unitId": "g3b-u2",
+      "word": "bag",
+      "safeName": "bag",
+      "audioFieldValue": "assets/audio/g3b-u2/bag.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-jacket",
+      "unitId": "g3b-u2",
+      "word": "jacket",
+      "safeName": "jacket",
+      "audioFieldValue": "assets/audio/g3b-u2/jacket.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u2-spelling-word-sports-shoes",
+      "unitId": "g3b-u2",
+      "word": "sports shoes",
+      "safeName": "sports-shoes",
+      "audioFieldValue": "assets/audio/g3b-u2/sports-shoes.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-001",
+      "unitId": "g3b-u3",
+      "word": "time",
+      "safeName": "time",
+      "audioFieldValue": "assets/audio/g3b-u3/time.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-002",
+      "unitId": "g3b-u3",
+      "word": "eleven",
+      "safeName": "eleven",
+      "audioFieldValue": "assets/audio/g3b-u3/eleven.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-003",
+      "unitId": "g3b-u3",
+      "word": "o’clock",
+      "safeName": "oclock",
+      "audioFieldValue": "assets/audio/g3b-u3/oclock.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-004",
+      "unitId": "g3b-u3",
+      "word": "clock",
+      "safeName": "clock",
+      "audioFieldValue": "assets/audio/g3b-u3/clock.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-005",
+      "unitId": "g3b-u3",
+      "word": "twelve",
+      "safeName": "twelve",
+      "audioFieldValue": "assets/audio/g3b-u3/twelve.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-006",
+      "unitId": "g3b-u3",
+      "word": "New York",
+      "safeName": "new-york",
+      "audioFieldValue": "assets/audio/g3b-u3/new-york.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-007",
+      "unitId": "g3b-u3",
+      "word": "London",
+      "safeName": "london",
+      "audioFieldValue": "assets/audio/g3b-u3/london.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-008",
+      "unitId": "g3b-u3",
+      "word": "Tokyo",
+      "safeName": "tokyo",
+      "audioFieldValue": "assets/audio/g3b-u3/tokyo.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-009",
+      "unitId": "g3b-u3",
+      "word": "Moscow",
+      "safeName": "moscow",
+      "audioFieldValue": "assets/audio/g3b-u3/moscow.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-010",
+      "unitId": "g3b-u3",
+      "word": "Paris",
+      "safeName": "paris",
+      "audioFieldValue": "assets/audio/g3b-u3/paris.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-011",
+      "unitId": "g3b-u3",
+      "word": "thirty",
+      "safeName": "thirty",
+      "audioFieldValue": "assets/audio/g3b-u3/thirty.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-012",
+      "unitId": "g3b-u3",
+      "word": "a.m.",
+      "safeName": "am",
+      "audioFieldValue": "assets/audio/g3b-u3/am.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-013",
+      "unitId": "g3b-u3",
+      "word": "p.m.",
+      "safeName": "pm",
+      "audioFieldValue": "assets/audio/g3b-u3/pm.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-014",
+      "unitId": "g3b-u3",
+      "word": "twenty",
+      "safeName": "twenty",
+      "audioFieldValue": "assets/audio/g3b-u3/twenty.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-015",
+      "unitId": "g3b-u3",
+      "word": "homework",
+      "safeName": "homework",
+      "audioFieldValue": "assets/audio/g3b-u3/homework.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-016",
+      "unitId": "g3b-u3",
+      "word": "dinner",
+      "safeName": "dinner",
+      "audioFieldValue": "assets/audio/g3b-u3/dinner.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-017",
+      "unitId": "g3b-u3",
+      "word": "read",
+      "safeName": "read",
+      "audioFieldValue": "assets/audio/g3b-u3/read.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-018",
+      "unitId": "g3b-u3",
+      "word": "watch",
+      "safeName": "watch",
+      "audioFieldValue": "assets/audio/g3b-u3/watch.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-019",
+      "unitId": "g3b-u3",
+      "word": "TV",
+      "safeName": "tv",
+      "audioFieldValue": "assets/audio/g3b-u3/tv.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-a-020",
+      "unitId": "g3b-u3",
+      "word": "use",
+      "safeName": "use",
+      "audioFieldValue": "assets/audio/g3b-u3/use.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-001",
+      "unitId": "g3b-u3",
+      "word": "hotel",
+      "safeName": "hotel",
+      "audioFieldValue": "assets/audio/g3b-u3/hotel.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-002",
+      "unitId": "g3b-u3",
+      "word": "sun",
+      "safeName": "sun",
+      "audioFieldValue": "assets/audio/g3b-u3/sun.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-003",
+      "unitId": "g3b-u3",
+      "word": "push",
+      "safeName": "push",
+      "audioFieldValue": "assets/audio/g3b-u3/push.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-004",
+      "unitId": "g3b-u3",
+      "word": "kid",
+      "safeName": "kid",
+      "audioFieldValue": "assets/audio/g3b-u3/kid.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-005",
+      "unitId": "g3b-u3",
+      "word": "with",
+      "safeName": "with",
+      "audioFieldValue": "assets/audio/g3b-u3/with.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-006",
+      "unitId": "g3b-u3",
+      "word": "toy",
+      "safeName": "toy",
+      "audioFieldValue": "assets/audio/g3b-u3/toy.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-007",
+      "unitId": "g3b-u3",
+      "word": "thirteen",
+      "safeName": "thirteen",
+      "audioFieldValue": "assets/audio/g3b-u3/thirteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-008",
+      "unitId": "g3b-u3",
+      "word": "fourteen",
+      "safeName": "fourteen",
+      "audioFieldValue": "assets/audio/g3b-u3/fourteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-009",
+      "unitId": "g3b-u3",
+      "word": "fifteen",
+      "safeName": "fifteen",
+      "audioFieldValue": "assets/audio/g3b-u3/fifteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-010",
+      "unitId": "g3b-u3",
+      "word": "sixteen",
+      "safeName": "sixteen",
+      "audioFieldValue": "assets/audio/g3b-u3/sixteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-011",
+      "unitId": "g3b-u3",
+      "word": "seventeen",
+      "safeName": "seventeen",
+      "audioFieldValue": "assets/audio/g3b-u3/seventeen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-012",
+      "unitId": "g3b-u3",
+      "word": "eighteen",
+      "safeName": "eighteen",
+      "audioFieldValue": "assets/audio/g3b-u3/eighteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-b-013",
+      "unitId": "g3b-u3",
+      "word": "nineteen",
+      "safeName": "nineteen",
+      "audioFieldValue": "assets/audio/g3b-u3/nineteen.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-early",
+      "unitId": "g3b-u3",
+      "word": "early",
+      "safeName": "early",
+      "audioFieldValue": "assets/audio/g3b-u3/early.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-late",
+      "unitId": "g3b-u3",
+      "word": "late",
+      "safeName": "late",
+      "audioFieldValue": "assets/audio/g3b-u3/late.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-oclock",
+      "unitId": "g3b-u3",
+      "word": "o'clock",
+      "safeName": "oclock",
+      "audioFieldValue": "assets/audio/g3b-u3/oclock.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-home",
+      "unitId": "g3b-u3",
+      "word": "home",
+      "safeName": "home",
+      "audioFieldValue": "assets/audio/g3b-u3/home.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-story",
+      "unitId": "g3b-u3",
+      "word": "story",
+      "safeName": "story",
+      "audioFieldValue": "assets/audio/g3b-u3/story.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-so",
+      "unitId": "g3b-u3",
+      "word": "so",
+      "safeName": "so",
+      "audioFieldValue": "assets/audio/g3b-u3/so.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-much",
+      "unitId": "g3b-u3",
+      "word": "much",
+      "safeName": "much",
+      "audioFieldValue": "assets/audio/g3b-u3/much.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-good-night",
+      "unitId": "g3b-u3",
+      "word": "good night",
+      "safeName": "good-night",
+      "audioFieldValue": "assets/audio/g3b-u3/good-night.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-to",
+      "unitId": "g3b-u3",
+      "word": "to",
+      "safeName": "to",
+      "audioFieldValue": "assets/audio/g3b-u3/to.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-go",
+      "unitId": "g3b-u3",
+      "word": "go",
+      "safeName": "go",
+      "audioFieldValue": "assets/audio/g3b-u3/go.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-bed",
+      "unitId": "g3b-u3",
+      "word": "bed",
+      "safeName": "bed",
+      "audioFieldValue": "assets/audio/g3b-u3/bed.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-at",
+      "unitId": "g3b-u3",
+      "word": "at",
+      "safeName": "at",
+      "audioFieldValue": "assets/audio/g3b-u3/at.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u3-spelling-word-past",
+      "unitId": "g3b-u3",
+      "word": "past",
+      "safeName": "past",
+      "audioFieldValue": "assets/audio/g3b-u3/past.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-001",
+      "unitId": "g3b-u4",
+      "word": "healthy",
+      "safeName": "healthy",
+      "audioFieldValue": "assets/audio/g3b-u4/healthy.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-002",
+      "unitId": "g3b-u4",
+      "word": "eat",
+      "safeName": "eat",
+      "audioFieldValue": "assets/audio/g3b-u4/eat.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-003",
+      "unitId": "g3b-u4",
+      "word": "breakfast",
+      "safeName": "breakfast",
+      "audioFieldValue": "assets/audio/g3b-u4/breakfast.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-004",
+      "unitId": "g3b-u4",
+      "word": "hungry",
+      "safeName": "hungry",
+      "audioFieldValue": "assets/audio/g3b-u4/hungry.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-005",
+      "unitId": "g3b-u4",
+      "word": "milk",
+      "safeName": "milk",
+      "audioFieldValue": "assets/audio/g3b-u4/milk.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-006",
+      "unitId": "g3b-u4",
+      "word": "bread",
+      "safeName": "bread",
+      "audioFieldValue": "assets/audio/g3b-u4/bread.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-007",
+      "unitId": "g3b-u4",
+      "word": "juice",
+      "safeName": "juice",
+      "audioFieldValue": "assets/audio/g3b-u4/juice.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-008",
+      "unitId": "g3b-u4",
+      "word": "lunch",
+      "safeName": "lunch",
+      "audioFieldValue": "assets/audio/g3b-u4/lunch.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-009",
+      "unitId": "g3b-u4",
+      "word": "hamburger",
+      "safeName": "hamburger",
+      "audioFieldValue": "assets/audio/g3b-u4/hamburger.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-010",
+      "unitId": "g3b-u4",
+      "word": "salad",
+      "safeName": "salad",
+      "audioFieldValue": "assets/audio/g3b-u4/salad.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-011",
+      "unitId": "g3b-u4",
+      "word": "drink",
+      "safeName": "drink",
+      "audioFieldValue": "assets/audio/g3b-u4/drink.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-012",
+      "unitId": "g3b-u4",
+      "word": "favorite",
+      "safeName": "favorite",
+      "audioFieldValue": "assets/audio/g3b-u4/favorite.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-013",
+      "unitId": "g3b-u4",
+      "word": "sweet",
+      "safeName": "sweet",
+      "audioFieldValue": "assets/audio/g3b-u4/sweet.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-014",
+      "unitId": "g3b-u4",
+      "word": "fruit",
+      "safeName": "fruit",
+      "audioFieldValue": "assets/audio/g3b-u4/fruit.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-015",
+      "unitId": "g3b-u4",
+      "word": "food",
+      "safeName": "food",
+      "audioFieldValue": "assets/audio/g3b-u4/food.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-016",
+      "unitId": "g3b-u4",
+      "word": "rice",
+      "safeName": "rice",
+      "audioFieldValue": "assets/audio/g3b-u4/rice.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-017",
+      "unitId": "g3b-u4",
+      "word": "soup",
+      "safeName": "soup",
+      "audioFieldValue": "assets/audio/g3b-u4/soup.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-018",
+      "unitId": "g3b-u4",
+      "word": "chicken",
+      "safeName": "chicken",
+      "audioFieldValue": "assets/audio/g3b-u4/chicken.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-019",
+      "unitId": "g3b-u4",
+      "word": "vegetable",
+      "safeName": "vegetable",
+      "audioFieldValue": "assets/audio/g3b-u4/vegetable.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-a-020",
+      "unitId": "g3b-u4",
+      "word": "some",
+      "safeName": "some",
+      "audioFieldValue": "assets/audio/g3b-u4/some.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-001",
+      "unitId": "g3b-u4",
+      "word": "picture",
+      "safeName": "picture",
+      "audioFieldValue": "assets/audio/g3b-u4/picture.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-002",
+      "unitId": "g3b-u4",
+      "word": "today",
+      "safeName": "today",
+      "audioFieldValue": "assets/audio/g3b-u4/today.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-003",
+      "unitId": "g3b-u4",
+      "word": "about",
+      "safeName": "about",
+      "audioFieldValue": "assets/audio/g3b-u4/about.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-004",
+      "unitId": "g3b-u4",
+      "word": "help",
+      "safeName": "help",
+      "audioFieldValue": "assets/audio/g3b-u4/help.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-005",
+      "unitId": "g3b-u4",
+      "word": "glass",
+      "safeName": "glass",
+      "audioFieldValue": "assets/audio/g3b-u4/glass.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-006",
+      "unitId": "g3b-u4",
+      "word": "of",
+      "safeName": "of",
+      "audioFieldValue": "assets/audio/g3b-u4/of.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-007",
+      "unitId": "g3b-u4",
+      "word": "Chinese",
+      "safeName": "chinese",
+      "audioFieldValue": "assets/audio/g3b-u4/chinese.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-b-008",
+      "unitId": "g3b-u4",
+      "word": "idea",
+      "safeName": "idea",
+      "audioFieldValue": "assets/audio/g3b-u4/idea.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-egg",
+      "unitId": "g3b-u4",
+      "word": "egg",
+      "safeName": "egg",
+      "audioFieldValue": "assets/audio/g3b-u4/egg.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-fish",
+      "unitId": "g3b-u4",
+      "word": "fish",
+      "safeName": "fish",
+      "audioFieldValue": "assets/audio/g3b-u4/fish.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-dinner",
+      "unitId": "g3b-u4",
+      "word": "dinner",
+      "safeName": "dinner",
+      "audioFieldValue": "assets/audio/g3b-u4/dinner.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-need",
+      "unitId": "g3b-u4",
+      "word": "need",
+      "safeName": "need",
+      "audioFieldValue": "assets/audio/g3b-u4/need.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-body",
+      "unitId": "g3b-u4",
+      "word": "body",
+      "safeName": "body",
+      "audioFieldValue": "assets/audio/g3b-u4/body.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-strong",
+      "unitId": "g3b-u4",
+      "word": "strong",
+      "safeName": "strong",
+      "audioFieldValue": "assets/audio/g3b-u4/strong.mp3",
+      "preferredFormat": "mp3"
+    },
+    {
+      "id": "g3b-u4-spelling-word-every",
+      "unitId": "g3b-u4",
+      "word": "every",
+      "safeName": "every",
+      "audioFieldValue": "assets/audio/g3b-u4/every.mp3",
+      "preferredFormat": "mp3"
+    }
+  ],
+  "missing": []
+}

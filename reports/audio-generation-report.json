@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-09T03:00:07.479Z",
+  "provider": "OpenRouter",
+  "endpoint": "https://openrouter.ai/api/v1/audio/speech",
+  "model": "openai/gpt-4o-mini-tts-2025-12-15",
+  "voice": "nova",
+  "missingCount": 3,
+  "generated": [
+    {
+      "id": "g3a-u1-a-008",
+      "word": "hi",
+      "safeName": "hi",
+      "targetMp3": "src/assets/audio/g3a-u1/hi.mp3",
+      "audioFieldValue": "assets/audio/g3a-u1/hi.mp3",
+      "model": "openai/gpt-4o-mini-tts-2025-12-15",
+      "bytes": 17664
+    },
+    {
+      "id": "g3a-u2-a-012",
+      "word": "duck",
+      "safeName": "duck",
+      "targetMp3": "src/assets/audio/g3a-u2/duck.mp3",
+      "audioFieldValue": "assets/audio/g3a-u2/duck.mp3",
+      "model": "openai/gpt-4o-mini-tts-2025-12-15",
+      "bytes": 12288
+    },
+    {
+      "id": "g3a-u4-a-009",
+      "word": "who",
+      "safeName": "who",
+      "targetMp3": "src/assets/audio/g3a-u4/who.mp3",
+      "audioFieldValue": "assets/audio/g3a-u4/who.mp3",
+      "model": "openai/gpt-4o-mini-tts-2025-12-15",
+      "bytes": 21504
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}

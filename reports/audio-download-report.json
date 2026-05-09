@@ -1,0 +1,445 @@
+{
+  "generatedAt": "2026-05-08T00:46:45.481Z",
+  "source": "Wikimedia Commons API",
+  "downloaded": [
+    {
+      "id": "g3b-u1-a-001",
+      "word": "animal",
+      "fileName": "En-us-animal.ogg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/En-us-animal.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "targetPath": "src/assets/audio/g3b-u1/animal.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/animal.ogg",
+      "mime": "application/ogg",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+    },
+    {
+      "id": "g3b-u1-a-002",
+      "word": "bear",
+      "fileName": "En-us-bear.ogg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/En-us-bear.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "targetPath": "src/assets/audio/g3b-u1/bear.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/bear.ogg",
+      "mime": "application/ogg",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+    },
+    {
+      "id": "g3b-u1-a-009",
+      "word": "baby",
+      "fileName": "En-us-baby.ogg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/En-us-baby.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "targetPath": "src/assets/audio/g3b-u1/baby.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/baby.ogg",
+      "mime": "application/ogg",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+    },
+    {
+      "id": "g3b-u1-a-015",
+      "word": "mouth",
+      "fileName": "En-us-mouth.ogg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/En-us-mouth.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "targetPath": "src/assets/audio/g3b-u1/mouth.ogg",
+      "audioFieldValue": "assets/audio/g3b-u1/mouth.ogg",
+      "mime": "application/ogg",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+    }
+  ],
+  "missing": [
+    {
+      "id": "g3b-u1-a-011",
+      "word": "leg",
+      "targetPath": "src/assets/audio/g3b-u1/leg.ogg",
+      "tried": [
+        "En-us-leg.ogg",
+        "en-us-leg.ogg",
+        "En-us-leg.ogg",
+        "en-us-leg.ogg",
+        "En-uk-leg.ogg",
+        "en-uk-leg.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-012",
+      "word": "these",
+      "targetPath": "src/assets/audio/g3b-u1/these.ogg",
+      "tried": [
+        "En-us-these.ogg",
+        "en-us-these.ogg",
+        "En-us-these.ogg",
+        "en-us-these.ogg",
+        "En-uk-these.ogg",
+        "en-uk-these.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-013",
+      "word": "those",
+      "targetPath": "src/assets/audio/g3b-u1/those.ogg",
+      "tried": [
+        "En-us-those.ogg",
+        "en-us-those.ogg",
+        "En-us-those.ogg",
+        "en-us-those.ogg",
+        "En-uk-those.ogg",
+        "en-uk-those.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-a-014",
+      "word": "jump",
+      "targetPath": "src/assets/audio/g3b-u1/jump.ogg",
+      "tried": [
+        "En-us-jump.ogg",
+        "en-us-jump.ogg",
+        "En-us-jump.ogg",
+        "en-us-jump.ogg",
+        "En-uk-jump.ogg",
+        "en-uk-jump.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-004",
+      "word": "fast",
+      "targetPath": "src/assets/audio/g3b-u1/fast.ogg",
+      "tried": [
+        "En-us-fast.ogg",
+        "en-us-fast.ogg",
+        "En-us-fast.ogg",
+        "en-us-fast.ogg",
+        "En-uk-fast.ogg",
+        "en-uk-fast.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-005",
+      "word": "beautiful",
+      "targetPath": "src/assets/audio/g3b-u1/beautiful.ogg",
+      "tried": [
+        "En-us-beautiful.ogg",
+        "en-us-beautiful.ogg",
+        "En-us-beautiful.ogg",
+        "en-us-beautiful.ogg",
+        "En-uk-beautiful.ogg",
+        "en-uk-beautiful.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-006",
+      "word": "bag",
+      "targetPath": "src/assets/audio/g3b-u1/bag.ogg",
+      "tried": [
+        "En-us-bag.ogg",
+        "en-us-bag.ogg",
+        "En-us-bag.ogg",
+        "en-us-bag.ogg",
+        "En-uk-bag.ogg",
+        "en-uk-bag.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-007",
+      "word": "hat",
+      "targetPath": "src/assets/audio/g3b-u1/hat.ogg",
+      "tried": [
+        "En-us-hat.ogg",
+        "en-us-hat.ogg",
+        "En-us-hat.ogg",
+        "en-us-hat.ogg",
+        "En-uk-hat.ogg",
+        "en-uk-hat.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-008",
+      "word": "like",
+      "targetPath": "src/assets/audio/g3b-u1/like.ogg",
+      "tried": [
+        "En-us-like.ogg",
+        "en-us-like.ogg",
+        "En-us-like.ogg",
+        "en-us-like.ogg",
+        "En-uk-like.ogg",
+        "en-uk-like.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-009",
+      "word": "grass",
+      "targetPath": "src/assets/audio/g3b-u1/grass.ogg",
+      "tried": [
+        "En-us-grass.ogg",
+        "en-us-grass.ogg",
+        "En-us-grass.ogg",
+        "en-us-grass.ogg",
+        "En-uk-grass.ogg",
+        "en-uk-grass.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-010",
+      "word": "ride",
+      "targetPath": "src/assets/audio/g3b-u1/ride.ogg",
+      "tried": [
+        "En-us-ride.ogg",
+        "en-us-ride.ogg",
+        "En-us-ride.ogg",
+        "en-us-ride.ogg",
+        "En-uk-ride.ogg",
+        "en-uk-ride.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-011",
+      "word": "cool",
+      "targetPath": "src/assets/audio/g3b-u1/cool.ogg",
+      "tried": [
+        "En-us-cool.ogg",
+        "en-us-cool.ogg",
+        "En-us-cool.ogg",
+        "en-us-cool.ogg",
+        "En-uk-cool.ogg",
+        "en-uk-cool.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-012",
+      "word": "face",
+      "targetPath": "src/assets/audio/g3b-u1/face.ogg",
+      "tried": [
+        "En-us-face.ogg",
+        "en-us-face.ogg",
+        "En-us-face.ogg",
+        "en-us-face.ogg",
+        "En-uk-face.ogg",
+        "en-uk-face.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-013",
+      "word": "guess",
+      "targetPath": "src/assets/audio/g3b-u1/guess.ogg",
+      "tried": [
+        "En-us-guess.ogg",
+        "en-us-guess.ogg",
+        "En-us-guess.ogg",
+        "en-us-guess.ogg",
+        "En-uk-guess.ogg",
+        "en-uk-guess.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-014",
+      "word": "carrot",
+      "targetPath": "src/assets/audio/g3b-u1/carrot.ogg",
+      "tried": [
+        "En-us-carrot.ogg",
+        "en-us-carrot.ogg",
+        "En-us-carrot.ogg",
+        "en-us-carrot.ogg",
+        "En-uk-carrot.ogg",
+        "en-uk-carrot.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-015",
+      "word": "not",
+      "targetPath": "src/assets/audio/g3b-u1/not.ogg",
+      "tried": [
+        "En-us-not.ogg",
+        "en-us-not.ogg",
+        "En-us-not.ogg",
+        "en-us-not.ogg",
+        "En-uk-not.ogg",
+        "en-uk-not.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-016",
+      "word": "isn't",
+      "targetPath": "src/assets/audio/g3b-u1/isnt.ogg",
+      "tried": [
+        "En-us-isn't.ogg",
+        "en-us-isn't.ogg",
+        "En-us-isnt.ogg",
+        "en-us-isnt.ogg",
+        "En-uk-isn't.ogg",
+        "en-uk-isn't.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-017",
+      "word": "Mr.",
+      "targetPath": "src/assets/audio/g3b-u1/mr.ogg",
+      "tried": [
+        "En-us-Mr..ogg",
+        "en-us-Mr..ogg",
+        "En-us-mr.ogg",
+        "en-us-mr.ogg",
+        "En-uk-Mr..ogg",
+        "en-uk-Mr..ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-018",
+      "word": "mouse",
+      "targetPath": "src/assets/audio/g3b-u1/mouse.ogg",
+      "tried": [
+        "En-us-mouse.ogg",
+        "en-us-mouse.ogg",
+        "En-us-mouse.ogg",
+        "en-us-mouse.ogg",
+        "En-uk-mouse.ogg",
+        "en-uk-mouse.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-019",
+      "word": "together",
+      "targetPath": "src/assets/audio/g3b-u1/together.ogg",
+      "tried": [
+        "En-us-together.ogg",
+        "en-us-together.ogg",
+        "En-us-together.ogg",
+        "en-us-together.ogg",
+        "En-uk-together.ogg",
+        "en-uk-together.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-020",
+      "word": "all",
+      "targetPath": "src/assets/audio/g3b-u1/all.ogg",
+      "tried": [
+        "En-us-all.ogg",
+        "en-us-all.ogg",
+        "En-us-all.ogg",
+        "en-us-all.ogg",
+        "En-uk-all.ogg",
+        "en-uk-all.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-021",
+      "word": "brown",
+      "targetPath": "src/assets/audio/g3b-u1/brown.ogg",
+      "tried": [
+        "En-us-brown.ogg",
+        "en-us-brown.ogg",
+        "En-us-brown.ogg",
+        "en-us-brown.ogg",
+        "En-uk-brown.ogg",
+        "en-uk-brown.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-022",
+      "word": "lovely",
+      "targetPath": "src/assets/audio/g3b-u1/lovely.ogg",
+      "tried": [
+        "En-us-lovely.ogg",
+        "en-us-lovely.ogg",
+        "En-us-lovely.ogg",
+        "en-us-lovely.ogg",
+        "En-uk-lovely.ogg",
+        "en-uk-lovely.ogg"
+      ]
+    },
+    {
+      "id": "g3b-u1-b-023",
+      "word": "see",
+      "targetPath": "src/assets/audio/g3b-u1/see.ogg",
+      "tried": [
+        "En-us-see.ogg",
+        "en-us-see.ogg",
+        "En-us-see.ogg",
+        "en-us-see.ogg",
+        "En-uk-see.ogg",
+        "en-uk-see.ogg"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "id": "g3b-u1-a-003",
+      "word": "horse",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-004",
+      "word": "bird",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-005",
+      "word": "panda",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-006",
+      "word": "small",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-007",
+      "word": "ear",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-008",
+      "word": "eye",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-010",
+      "word": "long",
+      "error": "Download failed: 429 Too many requests (f061ab2)"
+    },
+    {
+      "id": "g3b-u1-a-016",
+      "word": "meat",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-a-017",
+      "word": "tiger",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-a-018",
+      "word": "no",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-a-019",
+      "word": "draw",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-a-020",
+      "word": "nose",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-b-001",
+      "word": "our",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-b-002",
+      "word": "can",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    },
+    {
+      "id": "g3b-u1-b-003",
+      "word": "run",
+      "error": "Download failed: 429 Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+    }
+  ]
+}

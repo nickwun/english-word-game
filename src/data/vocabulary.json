@@ -1,0 +1,4825 @@
+{
+  "version": "2.0.0",
+  "books": [
+    {
+      "id": "g3a",
+      "title": "三年级上册",
+      "displayTitle": "闽教版英语三年级上册",
+      "publisher": "福建教育出版社",
+      "grade": 3,
+      "semester": "上册",
+      "units": [
+        {
+          "id": "g3a-u1",
+          "bookId": "g3a",
+          "title": "Meeting Friends",
+          "displayTitle": "Unit 1 Meeting Friends",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3a-u1",
+            "name": "交朋友达人",
+            "description": "完成三年级上册 Unit 1 后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3a-u1-main-1",
+              "unitId": "g3a-u1",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "交朋友 1",
+              "order": 1,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u1-a-001",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-1",
+                  "word": "hello",
+                  "meaning": "你好",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👋",
+                  "audio": "assets/audio/g3a-u1/hello.mp3",
+                  "example": "This is hello."
+                },
+                {
+                  "id": "g3a-u1-a-002",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-1",
+                  "word": "I",
+                  "meaning": "我",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🙂",
+                  "audio": "assets/audio/g3a-u1/i.mp3",
+                  "example": "I am happy."
+                },
+                {
+                  "id": "g3a-u1-a-003",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-1",
+                  "word": "Miss",
+                  "meaning": "女士；小姐",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👩‍🏫",
+                  "audio": "assets/audio/g3a-u1/miss.mp3",
+                  "example": "Hello, Miss Lin."
+                },
+                {
+                  "id": "g3a-u1-a-004",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-1",
+                  "word": "nice",
+                  "meaning": "高兴的",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "😊",
+                  "audio": "assets/audio/g3a-u1/nice.mp3",
+                  "example": "This is nice."
+                },
+                {
+                  "id": "g3a-u1-a-005",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-1",
+                  "word": "meet",
+                  "meaning": "遇见",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🤝",
+                  "audio": "assets/audio/g3a-u1/meet.mp3",
+                  "example": "This is meet."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u1-main-2",
+              "unitId": "g3a-u1",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "交朋友 2",
+              "order": 2,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u1-a-006",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-2",
+                  "word": "you",
+                  "meaning": "你；您；你们",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🫵",
+                  "audio": "assets/audio/g3a-u1/you.mp3",
+                  "example": "This is you."
+                },
+                {
+                  "id": "g3a-u1-a-007",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-2",
+                  "word": "am",
+                  "meaning": "是",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "✅",
+                  "audio": "assets/audio/g3a-u1/am.mp3",
+                  "example": "This is am."
+                },
+                {
+                  "id": "g3a-u1-a-008",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-2",
+                  "word": "hi",
+                  "meaning": "你好",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👋",
+                  "audio": "assets/audio/g3a-u1/hi.mp3",
+                  "example": "This is hi."
+                },
+                {
+                  "id": "g3a-u1-a-009",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-2",
+                  "word": "what",
+                  "meaning": "什么",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "❓",
+                  "audio": "assets/audio/g3a-u1/what.mp3",
+                  "example": "This is what."
+                },
+                {
+                  "id": "g3a-u1-a-010",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-2",
+                  "word": "is",
+                  "meaning": "是",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "✅",
+                  "audio": "assets/audio/g3a-u1/is.mp3",
+                  "example": "This is is."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u1-main-3",
+              "unitId": "g3a-u1",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "交朋友 3",
+              "order": 3,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u1-a-011",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-3",
+                  "word": "your",
+                  "meaning": "你的；你们的",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🎒",
+                  "audio": "assets/audio/g3a-u1/your.mp3",
+                  "example": "This is your."
+                },
+                {
+                  "id": "g3a-u1-a-012",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-3",
+                  "word": "name",
+                  "meaning": "名字",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🏷️",
+                  "audio": "assets/audio/g3a-u1/name.mp3",
+                  "example": "This is name."
+                },
+                {
+                  "id": "g3a-u1-a-013",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-3",
+                  "word": "my",
+                  "meaning": "我的",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🙋",
+                  "audio": "assets/audio/g3a-u1/my.mp3",
+                  "example": "This is my."
+                },
+                {
+                  "id": "g3a-u1-a-014",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-3",
+                  "word": "good",
+                  "meaning": "好的",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👍",
+                  "audio": "assets/audio/g3a-u1/good.mp3",
+                  "example": "This is good."
+                },
+                {
+                  "id": "g3a-u1-a-015",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-3",
+                  "word": "morning",
+                  "meaning": "早晨；上午",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🌅",
+                  "audio": "assets/audio/g3a-u1/morning.mp3",
+                  "example": "This is morning."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u1-main-4",
+              "unitId": "g3a-u1",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "交朋友 4",
+              "order": 4,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u1-a-016",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-4",
+                  "word": "how",
+                  "meaning": "怎样；多少；多么",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "❓",
+                  "audio": "assets/audio/g3a-u1/how.mp3",
+                  "example": "This is how."
+                },
+                {
+                  "id": "g3a-u1-a-017",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-4",
+                  "word": "are",
+                  "meaning": "是",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "✅",
+                  "audio": "assets/audio/g3a-u1/are.mp3",
+                  "example": "This is are."
+                },
+                {
+                  "id": "g3a-u1-a-018",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-4",
+                  "word": "fine",
+                  "meaning": "健康的；晴朗的",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "☀️",
+                  "audio": "assets/audio/g3a-u1/fine.mp3",
+                  "example": "This is fine."
+                },
+                {
+                  "id": "g3a-u1-a-019",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-4",
+                  "word": "afternoon",
+                  "meaning": "下午",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🌤️",
+                  "audio": "assets/audio/g3a-u1/afternoon.mp3",
+                  "example": "This is afternoon."
+                },
+                {
+                  "id": "g3a-u1-a-020",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-4",
+                  "word": "thank",
+                  "meaning": "谢谢",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🙏",
+                  "audio": "assets/audio/g3a-u1/thank.mp3",
+                  "example": "This is thank."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u1-main-5",
+              "unitId": "g3a-u1",
+              "type": "main",
+              "title": "Level 5",
+              "displayTitle": "交朋友 5",
+              "order": 5,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u1-a-021",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-5",
+                  "word": "mom",
+                  "meaning": "妈妈",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👩",
+                  "audio": "assets/audio/g3a-u1/mom.mp3",
+                  "example": "This is mom."
+                },
+                {
+                  "id": "g3a-u1-a-022",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-5",
+                  "word": "this",
+                  "meaning": "这个",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👉",
+                  "audio": "assets/audio/g3a-u1/this.mp3",
+                  "example": "This is this."
+                },
+                {
+                  "id": "g3a-u1-a-023",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-5",
+                  "word": "goodbye",
+                  "meaning": "再见",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "👋",
+                  "audio": "assets/audio/g3a-u1/goodbye.mp3",
+                  "example": "This is goodbye."
+                },
+                {
+                  "id": "g3a-u1-a-024",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-5",
+                  "word": "have",
+                  "meaning": "有；吃；喝",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "🍽️",
+                  "audio": "assets/audio/g3a-u1/have.mp3",
+                  "example": "This is have."
+                },
+                {
+                  "id": "g3a-u1-a-025",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u1",
+                  "levelId": "g3a-u1-main-5",
+                  "word": "day",
+                  "meaning": "一天；日",
+                  "priority": "A",
+                  "tags": [
+                    "greeting"
+                  ],
+                  "image": "📅",
+                  "audio": "assets/audio/g3a-u1/day.mp3",
+                  "example": "This is day."
+                }
+              ]
+            }
+          ],
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 1 拼写挑战",
+            "levels": [
+              {
+                "id": "g3a-u1-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序 1",
+                "wordIds": [
+                  "g3a-u1-a-001",
+                  "g3a-u1-a-004",
+                  "g3a-u1-a-005",
+                  "g3a-u1-a-006",
+                  "g3a-u1-a-009",
+                  "g3a-u1-a-011",
+                  "g3a-u1-a-012",
+                  "g3a-u1-a-014",
+                  "g3a-u1-a-015",
+                  "g3a-u1-a-018",
+                  "g3a-u1-a-019",
+                  "g3a-u1-a-020",
+                  "g3a-u1-a-021",
+                  "g3a-u1-a-022",
+                  "g3a-u1-a-023",
+                  "g3a-u1-a-024",
+                  "g3a-u1-a-025"
+                ]
+              },
+              {
+                "id": "g3a-u1-spelling-2",
+                "type": "keyboard-input",
+                "title": "简单词输入",
+                "wordIds": [
+                  "g3a-u1-a-008",
+                  "g3a-u1-a-002",
+                  "g3a-u1-a-007",
+                  "g3a-u1-a-010",
+                  "g3a-u1-a-006",
+                  "g3a-u1-a-013",
+                  "g3a-u1-a-021",
+                  "g3a-u1-a-025"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3a-u2",
+          "bookId": "g3a",
+          "title": "Fun Numbers",
+          "displayTitle": "Unit 2 Fun Numbers",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3a-u2",
+            "name": "数字达人",
+            "description": "完成三年级上册 Unit 2 后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3a-u2-main-1",
+              "unitId": "g3a-u2",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "趣味数字 1",
+              "order": 1,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u2-a-001",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-1",
+                  "word": "one",
+                  "meaning": "一",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "1️⃣",
+                  "audio": "assets/audio/g3a-u2/one.mp3",
+                  "example": "This is one."
+                },
+                {
+                  "id": "g3a-u2-a-002",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-1",
+                  "word": "two",
+                  "meaning": "二",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "2️⃣",
+                  "audio": "assets/audio/g3a-u2/two.mp3",
+                  "example": "This is two."
+                },
+                {
+                  "id": "g3a-u2-a-003",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-1",
+                  "word": "three",
+                  "meaning": "三",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "3️⃣",
+                  "audio": "assets/audio/g3a-u2/three.mp3",
+                  "example": "This is three."
+                },
+                {
+                  "id": "g3a-u2-a-004",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-1",
+                  "word": "four",
+                  "meaning": "四",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "4️⃣",
+                  "audio": "assets/audio/g3a-u2/four.mp3",
+                  "example": "This is four."
+                },
+                {
+                  "id": "g3a-u2-a-005",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-1",
+                  "word": "five",
+                  "meaning": "五",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "5️⃣",
+                  "audio": "assets/audio/g3a-u2/five.mp3",
+                  "example": "This is five."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u2-main-2",
+              "unitId": "g3a-u2",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "趣味数字 2",
+              "order": 2,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u2-a-006",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-2",
+                  "word": "six",
+                  "meaning": "六",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "6️⃣",
+                  "audio": "assets/audio/g3a-u2/six.mp3",
+                  "example": "This is six."
+                },
+                {
+                  "id": "g3a-u2-a-007",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-2",
+                  "word": "seven",
+                  "meaning": "七",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "7️⃣",
+                  "audio": "assets/audio/g3a-u2/seven.mp3",
+                  "example": "This is seven."
+                },
+                {
+                  "id": "g3a-u2-a-008",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-2",
+                  "word": "eight",
+                  "meaning": "八",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "8️⃣",
+                  "audio": "assets/audio/g3a-u2/eight.mp3",
+                  "example": "This is eight."
+                },
+                {
+                  "id": "g3a-u2-a-009",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-2",
+                  "word": "nine",
+                  "meaning": "九",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "9️⃣",
+                  "audio": "assets/audio/g3a-u2/nine.mp3",
+                  "example": "This is nine."
+                },
+                {
+                  "id": "g3a-u2-a-010",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-2",
+                  "word": "ten",
+                  "meaning": "十",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🔟",
+                  "audio": "assets/audio/g3a-u2/ten.mp3",
+                  "example": "This is ten."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u2-main-3",
+              "unitId": "g3a-u2",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "趣味数字 3",
+              "order": 3,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u2-a-011",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-3",
+                  "word": "many",
+                  "meaning": "许多的",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🔢",
+                  "audio": "assets/audio/g3a-u2/many.mp3",
+                  "example": "This is many."
+                },
+                {
+                  "id": "g3a-u2-a-012",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-3",
+                  "word": "duck",
+                  "meaning": "鸭子",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🦆",
+                  "audio": "assets/audio/g3a-u2/duck.mp3",
+                  "example": "This is duck."
+                },
+                {
+                  "id": "g3a-u2-a-013",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-3",
+                  "word": "that",
+                  "meaning": "那；那个",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "👉",
+                  "audio": "assets/audio/g3a-u2/that.mp3",
+                  "example": "This is that."
+                },
+                {
+                  "id": "g3a-u2-a-014",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-3",
+                  "word": "go",
+                  "meaning": "去；走",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🚶",
+                  "audio": "assets/audio/g3a-u2/go.mp3",
+                  "example": "This is go."
+                },
+                {
+                  "id": "g3a-u2-a-015",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-3",
+                  "word": "old",
+                  "meaning": "……岁；年老的；陈旧的",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🎂",
+                  "audio": "assets/audio/g3a-u2/old.mp3",
+                  "example": "This is old."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u2-main-4",
+              "unitId": "g3a-u2",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "趣味数字 4",
+              "order": 4,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u2-a-016",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-4",
+                  "word": "year",
+                  "meaning": "年",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "📅",
+                  "audio": "assets/audio/g3a-u2/year.mp3",
+                  "example": "This is year."
+                },
+                {
+                  "id": "g3a-u2-a-017",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-4",
+                  "word": "it",
+                  "meaning": "它",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🐾",
+                  "audio": "assets/audio/g3a-u2/it.mp3",
+                  "example": "This is it."
+                },
+                {
+                  "id": "g3a-u2-a-018",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-4",
+                  "word": "phone",
+                  "meaning": "电话",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "☎️",
+                  "audio": "assets/audio/g3a-u2/phone.mp3",
+                  "example": "This is phone."
+                },
+                {
+                  "id": "g3a-u2-a-019",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u2",
+                  "levelId": "g3a-u2-main-4",
+                  "word": "pet",
+                  "meaning": "宠物",
+                  "priority": "A",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "🐶",
+                  "audio": "assets/audio/g3a-u2/pet.mp3",
+                  "example": "This is pet."
+                }
+              ]
+            }
+          ],
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 2 拼写挑战",
+            "levels": [
+              {
+                "id": "g3a-u2-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序 1",
+                "wordIds": [
+                  "g3a-u2-a-001",
+                  "g3a-u2-a-002",
+                  "g3a-u2-a-003",
+                  "g3a-u2-a-004",
+                  "g3a-u2-a-005",
+                  "g3a-u2-a-006",
+                  "g3a-u2-a-007",
+                  "g3a-u2-a-008",
+                  "g3a-u2-a-009",
+                  "g3a-u2-a-010",
+                  "g3a-u2-a-011",
+                  "g3a-u2-a-012",
+                  "g3a-u2-a-013",
+                  "g3a-u2-a-014",
+                  "g3a-u2-a-015",
+                  "g3a-u2-a-016",
+                  "g3a-u2-a-017",
+                  "g3a-u2-a-018",
+                  "g3a-u2-a-019"
+                ]
+              },
+              {
+                "id": "g3a-u2-spelling-2",
+                "type": "keyboard-input",
+                "title": "简单词输入",
+                "wordIds": [
+                  "g3a-u2-a-001",
+                  "g3a-u2-a-002",
+                  "g3a-u2-a-006",
+                  "g3a-u2-a-010",
+                  "g3a-u2-a-014",
+                  "g3a-u2-a-017",
+                  "g3a-u2-a-019"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3a-u3",
+          "bookId": "g3a",
+          "title": "Colors Around Us",
+          "displayTitle": "Unit 3 Colors Around Us",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3a-u3",
+            "name": "颜色达人",
+            "description": "完成三年级上册 Unit 3 后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3a-u3-main-1",
+              "unitId": "g3a-u3",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "身边颜色 1",
+              "order": 1,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u3-a-001",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-1",
+                  "word": "stop",
+                  "meaning": "停止；停下；车站",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🛑",
+                  "audio": "assets/audio/g3a-u3/stop.mp3",
+                  "example": "This is stop."
+                },
+                {
+                  "id": "g3a-u3-a-002",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-1",
+                  "word": "light",
+                  "meaning": "灯；光线；浅色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "💡",
+                  "audio": "assets/audio/g3a-u3/light.mp3",
+                  "example": "This is light."
+                },
+                {
+                  "id": "g3a-u3-a-003",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-1",
+                  "word": "red",
+                  "meaning": "红色；红色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🔴",
+                  "audio": "assets/audio/g3a-u3/red.mp3",
+                  "example": "This is red."
+                },
+                {
+                  "id": "g3a-u3-a-004",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-1",
+                  "word": "green",
+                  "meaning": "绿色；绿色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🟢",
+                  "audio": "assets/audio/g3a-u3/green.mp3",
+                  "example": "This is green."
+                },
+                {
+                  "id": "g3a-u3-a-005",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-1",
+                  "word": "color",
+                  "meaning": "颜色；给……着色",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🎨",
+                  "audio": "assets/audio/g3a-u3/color.mp3",
+                  "example": "This is color."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u3-main-2",
+              "unitId": "g3a-u3",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "身边颜色 2",
+              "order": 2,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u3-a-006",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-2",
+                  "word": "blue",
+                  "meaning": "蓝色；蓝色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🔵",
+                  "audio": "assets/audio/g3a-u3/blue.mp3",
+                  "example": "This is blue."
+                },
+                {
+                  "id": "g3a-u3-a-007",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-2",
+                  "word": "yellow",
+                  "meaning": "黄色；黄色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🟡",
+                  "audio": "assets/audio/g3a-u3/yellow.mp3",
+                  "example": "This is yellow."
+                },
+                {
+                  "id": "g3a-u3-a-008",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-2",
+                  "word": "white",
+                  "meaning": "白色；白色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "⚪",
+                  "audio": "assets/audio/g3a-u3/white.mp3",
+                  "example": "This is white."
+                },
+                {
+                  "id": "g3a-u3-a-009",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-2",
+                  "word": "pink",
+                  "meaning": "粉红色；粉红色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🌸",
+                  "audio": "assets/audio/g3a-u3/pink.mp3",
+                  "example": "This is pink."
+                },
+                {
+                  "id": "g3a-u3-a-010",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-2",
+                  "word": "orange",
+                  "meaning": "橙子；橙色；橙色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🟠",
+                  "audio": "assets/audio/g3a-u3/orange.mp3",
+                  "example": "This is orange."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u3-main-3",
+              "unitId": "g3a-u3",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "身边颜色 3",
+              "order": 3,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u3-a-011",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-3",
+                  "word": "schoolbag",
+                  "meaning": "书包",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🎒",
+                  "audio": "assets/audio/g3a-u3/schoolbag.mp3",
+                  "example": "This is schoolbag."
+                },
+                {
+                  "id": "g3a-u3-a-012",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-3",
+                  "word": "pencil",
+                  "meaning": "铅笔",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "✏️",
+                  "audio": "assets/audio/g3a-u3/pencil.mp3",
+                  "example": "This is pencil."
+                },
+                {
+                  "id": "g3a-u3-a-013",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-3",
+                  "word": "pencil box",
+                  "meaning": "笔盒",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "📦",
+                  "audio": "assets/audio/g3a-u3/pencil-box.mp3",
+                  "example": "This is my pencil box."
+                },
+                {
+                  "id": "g3a-u3-a-014",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-3",
+                  "word": "pen",
+                  "meaning": "钢笔",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🖊️",
+                  "audio": "assets/audio/g3a-u3/pen.mp3",
+                  "example": "This is pen."
+                },
+                {
+                  "id": "g3a-u3-a-015",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-3",
+                  "word": "ruler",
+                  "meaning": "尺子",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "📏",
+                  "audio": "assets/audio/g3a-u3/ruler.mp3",
+                  "example": "This is ruler."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u3-main-4",
+              "unitId": "g3a-u3",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "身边颜色 4",
+              "order": 4,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u3-a-016",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-4",
+                  "word": "black",
+                  "meaning": "黑色；黑色的",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "⚫",
+                  "audio": "assets/audio/g3a-u3/black.mp3",
+                  "example": "This is black."
+                },
+                {
+                  "id": "g3a-u3-a-017",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-4",
+                  "word": "flower",
+                  "meaning": "花",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🌼",
+                  "audio": "assets/audio/g3a-u3/flower.mp3",
+                  "example": "This is flower."
+                },
+                {
+                  "id": "g3a-u3-a-018",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-4",
+                  "word": "draw",
+                  "meaning": "画画",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🖍️",
+                  "audio": "assets/audio/g3a-u3/draw.mp3",
+                  "example": "This is draw."
+                },
+                {
+                  "id": "g3a-u3-a-019",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-4",
+                  "word": "cut",
+                  "meaning": "剪；切",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "✂️",
+                  "audio": "assets/audio/g3a-u3/cut.mp3",
+                  "example": "This is cut."
+                },
+                {
+                  "id": "g3a-u3-a-020",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-4",
+                  "word": "make",
+                  "meaning": "制作；使变得",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🛠️",
+                  "audio": "assets/audio/g3a-u3/make.mp3",
+                  "example": "This is make."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u3-main-5",
+              "unitId": "g3a-u3",
+              "type": "main",
+              "title": "Level 5",
+              "displayTitle": "身边颜色 5",
+              "order": 5,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u3-a-021",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u3",
+                  "levelId": "g3a-u3-main-5",
+                  "word": "they",
+                  "meaning": "他们；她们；它们",
+                  "priority": "A",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "👥",
+                  "audio": "assets/audio/g3a-u3/they.mp3",
+                  "example": "This is they."
+                }
+              ]
+            }
+          ],
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 3 拼写挑战",
+            "levels": [
+              {
+                "id": "g3a-u3-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序 1",
+                "wordIds": [
+                  "g3a-u3-a-003",
+                  "g3a-u3-a-004",
+                  "g3a-u3-a-005",
+                  "g3a-u3-a-006",
+                  "g3a-u3-a-007",
+                  "g3a-u3-a-008",
+                  "g3a-u3-a-009",
+                  "g3a-u3-a-010",
+                  "g3a-u3-a-011",
+                  "g3a-u3-a-012",
+                  "g3a-u3-a-014",
+                  "g3a-u3-a-015",
+                  "g3a-u3-a-016",
+                  "g3a-u3-a-017",
+                  "g3a-u3-a-018",
+                  "g3a-u3-a-019",
+                  "g3a-u3-a-020",
+                  "g3a-u3-a-021"
+                ]
+              },
+              {
+                "id": "g3a-u3-spelling-2",
+                "type": "keyboard-input",
+                "title": "简单词输入",
+                "wordIds": [
+                  "g3a-u3-a-003",
+                  "g3a-u3-a-006",
+                  "g3a-u3-a-009",
+                  "g3a-u3-a-014",
+                  "g3a-u3-a-019",
+                  "g3a-u3-a-021"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3a-u4",
+          "bookId": "g3a",
+          "title": "Loving My Family",
+          "displayTitle": "Unit 4 Loving My Family",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3a-u4",
+            "name": "家庭达人",
+            "description": "完成三年级上册 Unit 4 后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3a-u4-main-1",
+              "unitId": "g3a-u4",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "爱我家人 1",
+              "order": 1,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u4-a-001",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-1",
+                  "word": "father",
+                  "meaning": "父亲；爸爸",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👨",
+                  "audio": "assets/audio/g3a-u4/father.mp3",
+                  "example": "This is father."
+                },
+                {
+                  "id": "g3a-u4-a-002",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-1",
+                  "word": "mother",
+                  "meaning": "母亲；妈妈",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👩",
+                  "audio": "assets/audio/g3a-u4/mother.mp3",
+                  "example": "This is mother."
+                },
+                {
+                  "id": "g3a-u4-a-003",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-1",
+                  "word": "brother",
+                  "meaning": "哥哥；弟弟",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👦",
+                  "audio": "assets/audio/g3a-u4/brother.mp3",
+                  "example": "This is brother."
+                },
+                {
+                  "id": "g3a-u4-a-004",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-1",
+                  "word": "sister",
+                  "meaning": "姐姐；妹妹",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👧",
+                  "audio": "assets/audio/g3a-u4/sister.mp3",
+                  "example": "This is sister."
+                },
+                {
+                  "id": "g3a-u4-a-005",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-1",
+                  "word": "cake",
+                  "meaning": "蛋糕",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "🍰",
+                  "audio": "assets/audio/g3a-u4/cake.mp3",
+                  "example": "This is cake."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u4-main-2",
+              "unitId": "g3a-u4",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "爱我家人 2",
+              "order": 2,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u4-a-006",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-2",
+                  "word": "grandma",
+                  "meaning": "奶奶；外婆",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👵",
+                  "audio": "assets/audio/g3a-u4/grandma.mp3",
+                  "example": "This is grandma."
+                },
+                {
+                  "id": "g3a-u4-a-007",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-2",
+                  "word": "grandpa",
+                  "meaning": "爷爷；外公",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👴",
+                  "audio": "assets/audio/g3a-u4/grandpa.mp3",
+                  "example": "This is grandpa."
+                },
+                {
+                  "id": "g3a-u4-a-008",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-2",
+                  "word": "we",
+                  "meaning": "我们",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👨‍👩‍👧",
+                  "audio": "assets/audio/g3a-u4/we.mp3",
+                  "example": "This is we."
+                },
+                {
+                  "id": "g3a-u4-a-009",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-2",
+                  "word": "who",
+                  "meaning": "谁",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "❓",
+                  "audio": "assets/audio/g3a-u4/who.mp3",
+                  "example": "This is who."
+                },
+                {
+                  "id": "g3a-u4-a-010",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-2",
+                  "word": "he",
+                  "meaning": "他",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👦",
+                  "audio": "assets/audio/g3a-u4/he.mp3",
+                  "example": "This is he."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u4-main-3",
+              "unitId": "g3a-u4",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "爱我家人 3",
+              "order": 3,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u4-a-011",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-3",
+                  "word": "she",
+                  "meaning": "她",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👧",
+                  "audio": "assets/audio/g3a-u4/she.mp3",
+                  "example": "This is she."
+                },
+                {
+                  "id": "g3a-u4-a-012",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-3",
+                  "word": "family",
+                  "meaning": "家庭",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👨‍👩‍👧‍👦",
+                  "audio": "assets/audio/g3a-u4/family.mp3",
+                  "example": "This is family."
+                },
+                {
+                  "id": "g3a-u4-a-013",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-3",
+                  "word": "doctor",
+                  "meaning": "医生",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "🧑‍⚕️",
+                  "audio": "assets/audio/g3a-u4/doctor.mp3",
+                  "example": "This is doctor."
+                },
+                {
+                  "id": "g3a-u4-a-014",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-3",
+                  "word": "farmer",
+                  "meaning": "农民",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "🧑‍🌾",
+                  "audio": "assets/audio/g3a-u4/farmer.mp3",
+                  "example": "This is farmer."
+                },
+                {
+                  "id": "g3a-u4-a-015",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-3",
+                  "word": "cook",
+                  "meaning": "厨师；煮",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "🧑‍🍳",
+                  "audio": "assets/audio/g3a-u4/cook.mp3",
+                  "example": "This is cook."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u4-main-4",
+              "unitId": "g3a-u4",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "爱我家人 4",
+              "order": 4,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u4-a-016",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-4",
+                  "word": "uncle",
+                  "meaning": "叔；伯；姨夫",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👨",
+                  "audio": "assets/audio/g3a-u4/uncle.mp3",
+                  "example": "This is uncle."
+                },
+                {
+                  "id": "g3a-u4-a-017",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-4",
+                  "word": "worker",
+                  "meaning": "工人",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👷",
+                  "audio": "assets/audio/g3a-u4/worker.mp3",
+                  "example": "This is worker."
+                },
+                {
+                  "id": "g3a-u4-a-018",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-4",
+                  "word": "aunt",
+                  "meaning": "姑母；伯母；姨母",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👩",
+                  "audio": "assets/audio/g3a-u4/aunt.mp3",
+                  "example": "This is aunt."
+                },
+                {
+                  "id": "g3a-u4-a-019",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-4",
+                  "word": "nurse",
+                  "meaning": "护士",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "👩‍⚕️",
+                  "audio": "assets/audio/g3a-u4/nurse.mp3",
+                  "example": "This is nurse."
+                },
+                {
+                  "id": "g3a-u4-a-020",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-4",
+                  "word": "love",
+                  "meaning": "爱；喜爱",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "❤️",
+                  "audio": "assets/audio/g3a-u4/love.mp3",
+                  "example": "This is love."
+                }
+              ]
+            },
+            {
+              "id": "g3a-u4-main-5",
+              "unitId": "g3a-u4",
+              "type": "main",
+              "title": "Level 5",
+              "displayTitle": "爱我家人 5",
+              "order": 5,
+              "bookId": "g3a",
+              "words": [
+                {
+                  "id": "g3a-u4-a-021",
+                  "bookId": "g3a",
+                  "unitId": "g3a-u4",
+                  "levelId": "g3a-u4-main-5",
+                  "word": "big",
+                  "meaning": "大的",
+                  "priority": "A",
+                  "tags": [
+                    "family"
+                  ],
+                  "image": "⬆️",
+                  "audio": "assets/audio/g3a-u4/big.mp3",
+                  "example": "This is big."
+                }
+              ]
+            }
+          ],
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 4 拼写挑战",
+            "levels": [
+              {
+                "id": "g3a-u4-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序 1",
+                "wordIds": [
+                  "g3a-u4-a-001",
+                  "g3a-u4-a-002",
+                  "g3a-u4-a-003",
+                  "g3a-u4-a-004",
+                  "g3a-u4-a-005",
+                  "g3a-u4-a-006",
+                  "g3a-u4-a-007",
+                  "g3a-u4-a-008",
+                  "g3a-u4-a-009",
+                  "g3a-u4-a-010",
+                  "g3a-u4-a-011",
+                  "g3a-u4-a-012",
+                  "g3a-u4-a-013",
+                  "g3a-u4-a-014",
+                  "g3a-u4-a-015",
+                  "g3a-u4-a-016",
+                  "g3a-u4-a-017",
+                  "g3a-u4-a-018",
+                  "g3a-u4-a-019",
+                  "g3a-u4-a-020",
+                  "g3a-u4-a-021"
+                ]
+              },
+              {
+                "id": "g3a-u4-spelling-2",
+                "type": "keyboard-input",
+                "title": "简单词输入",
+                "wordIds": [
+                  "g3a-u4-a-005",
+                  "g3a-u4-a-008",
+                  "g3a-u4-a-009",
+                  "g3a-u4-a-010",
+                  "g3a-u4-a-011",
+                  "g3a-u4-a-015",
+                  "g3a-u4-a-018",
+                  "g3a-u4-a-020",
+                  "g3a-u4-a-021"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "g3b",
+      "title": "三年级下册",
+      "displayTitle": "闽教版英语三年级下册",
+      "publisher": "福建教育出版社",
+      "grade": 3,
+      "semester": "下册",
+      "units": [
+        {
+          "id": "g3b-u1",
+          "title": "Our Animal Friends",
+          "displayTitle": "Unit 1 Our Animal Friends",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3b-u1",
+            "name": "动物朋友达人",
+            "description": "完成 Unit 1 主线学习、错词复习和额外挑战后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3b-u1-main-1",
+              "unitId": "g3b-u1",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "动物朋友 1",
+              "order": 1,
+              "words": [
+                {
+                  "id": "g3b-u1-a-001",
+                  "word": "animal",
+                  "meaning": "动物",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐾",
+                  "audio": "assets/audio/g3b-u1/animal.mp3",
+                  "example": "",
+                  "audioSource": {
+                    "provider": "Wikimedia Commons",
+                    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/En-us-animal.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                    "fileName": "En-us-animal.ogg",
+                    "licenseShortName": "CC BY-SA 3.0",
+                    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+                  },
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-002",
+                  "word": "bear",
+                  "meaning": "熊",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐻",
+                  "audio": "assets/audio/g3b-u1/bear.mp3",
+                  "example": "",
+                  "audioSource": {
+                    "provider": "Wikimedia Commons",
+                    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/En-us-bear.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                    "fileName": "En-us-bear.ogg",
+                    "licenseShortName": "CC BY-SA 3.0",
+                    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+                  },
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-003",
+                  "word": "horse",
+                  "meaning": "马",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐴",
+                  "audio": "assets/audio/g3b-u1/horse.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-004",
+                  "word": "bird",
+                  "meaning": "鸟",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐦",
+                  "audio": "assets/audio/g3b-u1/bird.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-005",
+                  "word": "panda",
+                  "meaning": "熊猫",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐼",
+                  "audio": "assets/audio/g3b-u1/panda.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-main-2",
+              "unitId": "g3b-u1",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "身体部位 1",
+              "order": 2,
+              "words": [
+                {
+                  "id": "g3b-u1-a-006",
+                  "word": "small",
+                  "meaning": "小的",
+                  "priority": "A",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "🔹",
+                  "audio": "assets/audio/g3b-u1/small.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-007",
+                  "word": "ear",
+                  "meaning": "耳朵",
+                  "priority": "A",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "👂",
+                  "audio": "assets/audio/g3b-u1/ear.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-008",
+                  "word": "eye",
+                  "meaning": "眼睛",
+                  "priority": "A",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "👁️",
+                  "audio": "assets/audio/g3b-u1/eye.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-009",
+                  "word": "baby",
+                  "meaning": "婴儿；幼崽",
+                  "priority": "A",
+                  "tags": [
+                    "people",
+                    "animal"
+                  ],
+                  "image": "👶",
+                  "audio": "assets/audio/g3b-u1/baby.mp3",
+                  "example": "",
+                  "audioSource": {
+                    "provider": "Wikimedia Commons",
+                    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/En-us-baby.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                    "fileName": "En-us-baby.ogg",
+                    "licenseShortName": "CC BY-SA 3.0",
+                    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+                  },
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-010",
+                  "word": "long",
+                  "meaning": "长的",
+                  "priority": "A",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "📏",
+                  "audio": "assets/audio/g3b-u1/long.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-main-3",
+              "unitId": "g3b-u1",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "动作和身体",
+              "order": 3,
+              "words": [
+                {
+                  "id": "g3b-u1-a-011",
+                  "word": "leg",
+                  "meaning": "腿",
+                  "priority": "A",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "🦵",
+                  "audio": "assets/audio/g3b-u1/leg.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-012",
+                  "word": "these",
+                  "meaning": "这些",
+                  "priority": "A",
+                  "tags": [
+                    "pronoun"
+                  ],
+                  "image": "👉",
+                  "audio": "assets/audio/g3b-u1/these.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-013",
+                  "word": "those",
+                  "meaning": "那些",
+                  "priority": "A",
+                  "tags": [
+                    "pronoun"
+                  ],
+                  "image": "👈",
+                  "audio": "assets/audio/g3b-u1/those.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-014",
+                  "word": "jump",
+                  "meaning": "跳",
+                  "priority": "A",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "🦘",
+                  "audio": "assets/audio/g3b-u1/jump.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-015",
+                  "word": "mouth",
+                  "meaning": "嘴巴",
+                  "priority": "A",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "👄",
+                  "audio": "assets/audio/g3b-u1/mouth.mp3",
+                  "example": "",
+                  "audioSource": {
+                    "provider": "Wikimedia Commons",
+                    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/En-us-mouth.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                    "fileName": "En-us-mouth.ogg",
+                    "licenseShortName": "CC BY-SA 3.0",
+                    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+                    "artist": "<a href=\"//commons.wikimedia.org/wiki/User:Dvortygirl\" title=\"User:Dvortygirl\">Dvortygirl</a>"
+                  },
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-main-4",
+              "unitId": "g3b-u1",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "老虎和五官",
+              "order": 4,
+              "words": [
+                {
+                  "id": "g3b-u1-a-016",
+                  "word": "meat",
+                  "meaning": "肉",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🥩",
+                  "audio": "assets/audio/g3b-u1/meat.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-017",
+                  "word": "tiger",
+                  "meaning": "老虎",
+                  "priority": "A",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐯",
+                  "audio": "assets/audio/g3b-u1/tiger.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-018",
+                  "word": "no",
+                  "meaning": "不；不是；没有",
+                  "priority": "A",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "❌",
+                  "audio": "assets/audio/g3b-u1/no.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-019",
+                  "word": "draw",
+                  "meaning": "画",
+                  "priority": "A",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "✏️",
+                  "audio": "assets/audio/g3b-u1/draw.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-a-020",
+                  "word": "nose",
+                  "meaning": "鼻子",
+                  "priority": "A",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "👃",
+                  "audio": "assets/audio/g3b-u1/nose.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-extra-1",
+              "unitId": "g3b-u1",
+              "type": "extra",
+              "title": "Extra Level 1",
+              "displayTitle": "额外挑战 1",
+              "order": 101,
+              "words": [
+                {
+                  "id": "g3b-u1-b-001",
+                  "word": "our",
+                  "meaning": "我们的",
+                  "priority": "B",
+                  "tags": [
+                    "pronoun"
+                  ],
+                  "image": "👨‍👩‍👧",
+                  "audio": "assets/audio/g3b-u1/our.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-002",
+                  "word": "can",
+                  "meaning": "能；会",
+                  "priority": "B",
+                  "tags": [
+                    "modal"
+                  ],
+                  "image": "✅",
+                  "audio": "assets/audio/g3b-u1/can.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-003",
+                  "word": "run",
+                  "meaning": "跑",
+                  "priority": "B",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "🏃",
+                  "audio": "assets/audio/g3b-u1/run.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-004",
+                  "word": "fast",
+                  "meaning": "快速地；快的",
+                  "priority": "B",
+                  "tags": [
+                    "adjective",
+                    "adverb"
+                  ],
+                  "image": "💨",
+                  "audio": "assets/audio/g3b-u1/fast.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-005",
+                  "word": "beautiful",
+                  "meaning": "美丽的；漂亮的",
+                  "priority": "B",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "🌸",
+                  "audio": "assets/audio/g3b-u1/beautiful.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-extra-2",
+              "unitId": "g3b-u1",
+              "type": "extra",
+              "title": "Extra Level 2",
+              "displayTitle": "额外挑战 2",
+              "order": 102,
+              "words": [
+                {
+                  "id": "g3b-u1-b-006",
+                  "word": "bag",
+                  "meaning": "包；手提包；袋子",
+                  "priority": "B",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "🎒",
+                  "audio": "assets/audio/g3b-u1/bag.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-007",
+                  "word": "hat",
+                  "meaning": "帽子",
+                  "priority": "B",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "🎩",
+                  "audio": "assets/audio/g3b-u1/hat.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-008",
+                  "word": "like",
+                  "meaning": "喜欢；像",
+                  "priority": "B",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "❤️",
+                  "audio": "assets/audio/g3b-u1/like.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-009",
+                  "word": "grass",
+                  "meaning": "草",
+                  "priority": "B",
+                  "tags": [
+                    "nature"
+                  ],
+                  "image": "🌱",
+                  "audio": "assets/audio/g3b-u1/grass.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-010",
+                  "word": "ride",
+                  "meaning": "骑",
+                  "priority": "B",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "🚲",
+                  "audio": "assets/audio/g3b-u1/ride.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-extra-3",
+              "unitId": "g3b-u1",
+              "type": "extra",
+              "title": "Extra Level 3",
+              "displayTitle": "额外挑战 3",
+              "order": 103,
+              "words": [
+                {
+                  "id": "g3b-u1-b-011",
+                  "word": "cool",
+                  "meaning": "酷的；凉爽的",
+                  "priority": "B",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "😎",
+                  "audio": "assets/audio/g3b-u1/cool.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-012",
+                  "word": "face",
+                  "meaning": "脸",
+                  "priority": "B",
+                  "tags": [
+                    "body"
+                  ],
+                  "image": "🙂",
+                  "audio": "assets/audio/g3b-u1/face.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-013",
+                  "word": "guess",
+                  "meaning": "猜",
+                  "priority": "B",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "❓",
+                  "audio": "assets/audio/g3b-u1/guess.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-014",
+                  "word": "carrot",
+                  "meaning": "胡萝卜",
+                  "priority": "B",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🥕",
+                  "audio": "assets/audio/g3b-u1/carrot.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-015",
+                  "word": "not",
+                  "meaning": "不；没有",
+                  "priority": "B",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "🚫",
+                  "audio": "assets/audio/g3b-u1/not.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-extra-4",
+              "unitId": "g3b-u1",
+              "type": "extra",
+              "title": "Extra Level 4",
+              "displayTitle": "额外挑战 4",
+              "order": 104,
+              "words": [
+                {
+                  "id": "g3b-u1-b-016",
+                  "word": "isn't",
+                  "meaning": "不是",
+                  "priority": "B",
+                  "tags": [
+                    "contraction"
+                  ],
+                  "image": "❌",
+                  "audio": "assets/audio/g3b-u1/isnt.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-017",
+                  "word": "Mr.",
+                  "meaning": "先生",
+                  "priority": "B",
+                  "tags": [
+                    "title"
+                  ],
+                  "image": "👨",
+                  "audio": "assets/audio/g3b-u1/mr.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-018",
+                  "word": "mouse",
+                  "meaning": "老鼠",
+                  "priority": "B",
+                  "tags": [
+                    "animal"
+                  ],
+                  "image": "🐭",
+                  "audio": "assets/audio/g3b-u1/mouse.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-019",
+                  "word": "together",
+                  "meaning": "一起",
+                  "priority": "B",
+                  "tags": [
+                    "adverb"
+                  ],
+                  "image": "🤝",
+                  "audio": "assets/audio/g3b-u1/together.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-020",
+                  "word": "all",
+                  "meaning": "全部",
+                  "priority": "B",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "🌟",
+                  "audio": "assets/audio/g3b-u1/all.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u1-extra-5",
+              "unitId": "g3b-u1",
+              "type": "extra",
+              "title": "Extra Level 5",
+              "displayTitle": "额外挑战 5",
+              "order": 105,
+              "words": [
+                {
+                  "id": "g3b-u1-b-021",
+                  "word": "brown",
+                  "meaning": "棕色的；棕色",
+                  "priority": "B",
+                  "tags": [
+                    "color"
+                  ],
+                  "image": "🟤",
+                  "audio": "assets/audio/g3b-u1/brown.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-022",
+                  "word": "lovely",
+                  "meaning": "可爱的",
+                  "priority": "B",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "😊",
+                  "audio": "assets/audio/g3b-u1/lovely.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u1-b-023",
+                  "word": "see",
+                  "meaning": "看见；看到",
+                  "priority": "B",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "👀",
+                  "audio": "assets/audio/g3b-u1/see.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            }
+          ],
+          "bookId": "g3b",
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 1 拼写挑战",
+            "levels": [
+              {
+                "id": "g3b-u1-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序",
+                "wordIds": [
+                  "g3b-u1-a-001",
+                  "g3b-u1-a-002",
+                  "g3b-u1-a-003",
+                  "g3b-u1-a-004",
+                  "g3b-u1-a-005",
+                  "g3b-u1-a-006",
+                  "g3b-u1-a-007",
+                  "g3b-u1-a-008",
+                  "g3b-u1-a-009",
+                  "g3b-u1-a-010",
+                  "g3b-u1-a-011",
+                  "g3b-u1-a-012",
+                  "g3b-u1-a-013",
+                  "g3b-u1-a-014",
+                  "g3b-u1-a-015",
+                  "g3b-u1-a-016",
+                  "g3b-u1-a-017",
+                  "g3b-u1-a-018",
+                  "g3b-u1-a-019",
+                  "g3b-u1-a-020"
+                ]
+              },
+              {
+                "id": "g3b-u1-spelling-2",
+                "type": "keyboard-input-basic",
+                "title": "基础输入",
+                "wordIds": [
+                  "g3b-u1-a-002",
+                  "g3b-u1-a-004",
+                  "g3b-u1-a-007",
+                  "g3b-u1-a-008",
+                  "g3b-u1-a-009",
+                  "g3b-u1-a-010",
+                  "g3b-u1-a-011",
+                  "g3b-u1-a-014",
+                  "g3b-u1-a-016",
+                  "g3b-u1-a-018",
+                  "g3b-u1-a-019",
+                  "g3b-u1-a-020"
+                ]
+              },
+              {
+                "id": "g3b-u1-spelling-3",
+                "type": "keyboard-input-dictation",
+                "title": "课本听写挑战",
+                "description": "这一关更接近学校听写，适合复习后再挑战。",
+                "wordIds": [
+                  "g3b-u1-a-001",
+                  "g3b-u1-a-002",
+                  "g3b-u1-a-003",
+                  "g3b-u1-a-004",
+                  "g3b-u1-a-005",
+                  "g3b-u1-a-006",
+                  "g3b-u1-a-007",
+                  "g3b-u1-a-008",
+                  "g3b-u1-a-009",
+                  "g3b-u1-a-010",
+                  "g3b-u1-a-011",
+                  "g3b-u1-a-012",
+                  "g3b-u1-a-013",
+                  "g3b-u1-a-014",
+                  "g3b-u1-a-015",
+                  "g3b-u1-a-016",
+                  "g3b-u1-a-017",
+                  "g3b-u1-a-018",
+                  "g3b-u1-a-019",
+                  "g3b-u1-a-020"
+                ]
+              }
+            ],
+            "words": []
+          }
+        },
+        {
+          "id": "g3b-u2",
+          "title": "My Clothes",
+          "displayTitle": "Unit 2 My Clothes",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3b-u2",
+            "name": "衣服达人",
+            "description": "完成 Unit 2 主线学习、错词复习和额外挑战后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3b-u2-main-1",
+              "unitId": "g3b-u2",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "衣服尺码",
+              "order": 1,
+              "words": [
+                {
+                  "id": "g3b-u2-a-001",
+                  "word": "clothes",
+                  "meaning": "衣服",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "👕",
+                  "audio": "assets/audio/g3b-u2/clothes.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-002",
+                  "word": "size",
+                  "meaning": "尺寸",
+                  "priority": "A",
+                  "tags": [
+                    "clothes",
+                    "measure"
+                  ],
+                  "image": "📏",
+                  "audio": "assets/audio/g3b-u2/size.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-003",
+                  "word": "do",
+                  "meaning": "做；助动词",
+                  "priority": "A",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "✅",
+                  "audio": "assets/audio/g3b-u2/do.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-004",
+                  "word": "wear",
+                  "meaning": "穿；戴",
+                  "priority": "A",
+                  "tags": [
+                    "clothes",
+                    "verb"
+                  ],
+                  "image": "🧥",
+                  "audio": "assets/audio/g3b-u2/wear.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-005",
+                  "word": "T-shirt",
+                  "meaning": "T恤衫",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "👕",
+                  "audio": "assets/audio/g3b-u2/t-shirt.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-main-2",
+              "unitId": "g3b-u2",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "衣物归属",
+              "order": 2,
+              "words": [
+                {
+                  "id": "g3b-u2-a-006",
+                  "word": "whose",
+                  "meaning": "谁的",
+                  "priority": "A",
+                  "tags": [
+                    "question"
+                  ],
+                  "image": "❓",
+                  "audio": "assets/audio/g3b-u2/whose.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-007",
+                  "word": "shirt",
+                  "meaning": "衬衫",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "👔",
+                  "audio": "assets/audio/g3b-u2/shirt.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-008",
+                  "word": "where",
+                  "meaning": "哪里",
+                  "priority": "A",
+                  "tags": [
+                    "question"
+                  ],
+                  "image": "📍",
+                  "audio": "assets/audio/g3b-u2/where.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-009",
+                  "word": "sweater",
+                  "meaning": "毛衣",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "🧶",
+                  "audio": "assets/audio/g3b-u2/sweater.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-010",
+                  "word": "bed",
+                  "meaning": "床",
+                  "priority": "A",
+                  "tags": [
+                    "room"
+                  ],
+                  "image": "🛏️",
+                  "audio": "assets/audio/g3b-u2/bed.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-main-3",
+              "unitId": "g3b-u2",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "衣物位置",
+              "order": 3,
+              "words": [
+                {
+                  "id": "g3b-u2-a-011",
+                  "word": "under",
+                  "meaning": "在……下面",
+                  "priority": "A",
+                  "tags": [
+                    "position"
+                  ],
+                  "image": "⬇️",
+                  "audio": "assets/audio/g3b-u2/under.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-012",
+                  "word": "chair",
+                  "meaning": "椅子",
+                  "priority": "A",
+                  "tags": [
+                    "room"
+                  ],
+                  "image": "🪑",
+                  "audio": "assets/audio/g3b-u2/chair.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-013",
+                  "word": "put on",
+                  "meaning": "穿上",
+                  "priority": "A",
+                  "tags": [
+                    "clothes",
+                    "phrase"
+                  ],
+                  "image": "🧢",
+                  "audio": "assets/audio/g3b-u2/put-on.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-014",
+                  "word": "shoe",
+                  "meaning": "鞋",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "👟",
+                  "audio": "assets/audio/g3b-u2/shoe.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-015",
+                  "word": "shorts",
+                  "meaning": "短裤",
+                  "priority": "A",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "🩳",
+                  "audio": "assets/audio/g3b-u2/shorts.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-main-4",
+              "unitId": "g3b-u2",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "运动服装",
+              "order": 4,
+              "words": [
+                {
+                  "id": "g3b-u2-a-016",
+                  "word": "PE",
+                  "meaning": "体育",
+                  "priority": "A",
+                  "tags": [
+                    "school"
+                  ],
+                  "image": "🏃",
+                  "audio": "assets/audio/g3b-u2/pe.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-017",
+                  "word": "swim",
+                  "meaning": "游泳",
+                  "priority": "A",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "🏊",
+                  "audio": "assets/audio/g3b-u2/swim.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-018",
+                  "word": "bike",
+                  "meaning": "自行车",
+                  "priority": "A",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "🚲",
+                  "audio": "assets/audio/g3b-u2/bike.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-019",
+                  "word": "sport",
+                  "meaning": "运动",
+                  "priority": "A",
+                  "tags": [
+                    "sport"
+                  ],
+                  "image": "⚽",
+                  "audio": "assets/audio/g3b-u2/sport.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-a-020",
+                  "word": "want",
+                  "meaning": "想；想要",
+                  "priority": "A",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "🙋",
+                  "audio": "assets/audio/g3b-u2/want.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-extra-1",
+              "unitId": "g3b-u2",
+              "type": "extra",
+              "title": "Extra Level 1",
+              "displayTitle": "额外挑战 1",
+              "order": 101,
+              "words": [
+                {
+                  "id": "g3b-u2-b-001",
+                  "word": "team",
+                  "meaning": "队",
+                  "priority": "B",
+                  "tags": [
+                    "sport"
+                  ],
+                  "image": "👥",
+                  "audio": "assets/audio/g3b-u2/team.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-002",
+                  "word": "sports ground",
+                  "meaning": "运动场",
+                  "priority": "B",
+                  "tags": [
+                    "school",
+                    "sport"
+                  ],
+                  "image": "🏟️",
+                  "audio": "assets/audio/g3b-u2/sports-ground.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-003",
+                  "word": "not",
+                  "meaning": "不；没有",
+                  "priority": "B",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "🚫",
+                  "audio": "assets/audio/g3b-u2/not.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-004",
+                  "word": "isn't = is not",
+                  "meaning": "不是",
+                  "priority": "B",
+                  "tags": [
+                    "contraction"
+                  ],
+                  "image": "❌",
+                  "audio": "assets/audio/g3b-u2/isnt-is-not.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-005",
+                  "word": "room",
+                  "meaning": "房间",
+                  "priority": "B",
+                  "tags": [
+                    "room"
+                  ],
+                  "image": "🚪",
+                  "audio": "assets/audio/g3b-u2/room.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-extra-2",
+              "unitId": "g3b-u2",
+              "type": "extra",
+              "title": "Extra Level 2",
+              "displayTitle": "额外挑战 2",
+              "order": 102,
+              "words": [
+                {
+                  "id": "g3b-u2-b-006",
+                  "word": "very",
+                  "meaning": "很；非常",
+                  "priority": "B",
+                  "tags": [
+                    "adverb"
+                  ],
+                  "image": "💫",
+                  "audio": "assets/audio/g3b-u2/very.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-007",
+                  "word": "much",
+                  "meaning": "非常；很；许多",
+                  "priority": "B",
+                  "tags": [
+                    "adverb"
+                  ],
+                  "image": "➕",
+                  "audio": "assets/audio/g3b-u2/much.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-008",
+                  "word": "you're = you are",
+                  "meaning": "你是",
+                  "priority": "B",
+                  "tags": [
+                    "contraction"
+                  ],
+                  "image": "🙂",
+                  "audio": "assets/audio/g3b-u2/youre-you-are.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-009",
+                  "word": "dear",
+                  "meaning": "亲爱的",
+                  "priority": "B",
+                  "tags": [
+                    "feeling"
+                  ],
+                  "image": "💌",
+                  "audio": "assets/audio/g3b-u2/dear.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-010",
+                  "word": "put away",
+                  "meaning": "把某物收拾起来",
+                  "priority": "B",
+                  "tags": [
+                    "phrase"
+                  ],
+                  "image": "📦",
+                  "audio": "assets/audio/g3b-u2/put-away.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u2-extra-3",
+              "unitId": "g3b-u2",
+              "type": "extra",
+              "title": "Extra Level 3",
+              "displayTitle": "额外挑战 3",
+              "order": 103,
+              "words": [
+                {
+                  "id": "g3b-u2-b-011",
+                  "word": "box",
+                  "meaning": "盒；箱",
+                  "priority": "B",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "📦",
+                  "audio": "assets/audio/g3b-u2/box.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-012",
+                  "word": "forest",
+                  "meaning": "森林",
+                  "priority": "B",
+                  "tags": [
+                    "nature"
+                  ],
+                  "image": "🌲",
+                  "audio": "assets/audio/g3b-u2/forest.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-013",
+                  "word": "can't = cannot",
+                  "meaning": "不能；不会",
+                  "priority": "B",
+                  "tags": [
+                    "contraction"
+                  ],
+                  "image": "🙅",
+                  "audio": "assets/audio/g3b-u2/cant-cannot.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u2-b-014",
+                  "word": "skirt",
+                  "meaning": "裙子",
+                  "priority": "B",
+                  "tags": [
+                    "clothes"
+                  ],
+                  "image": "👗",
+                  "audio": "assets/audio/g3b-u2/skirt.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            }
+          ],
+          "bookId": "g3b",
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 2 拼写挑战",
+            "levels": [
+              {
+                "id": "g3b-u2-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序",
+                "wordIds": [
+                  "g3b-u2-a-001",
+                  "g3b-u2-a-007",
+                  "g3b-u2-b-014",
+                  "g3b-u2-a-006",
+                  "g3b-u2-a-009",
+                  "g3b-u2-a-015",
+                  "g3b-u2-spelling-word-nice",
+                  "g3b-u2-spelling-word-but",
+                  "g3b-u2-spelling-word-too",
+                  "g3b-u2-spelling-word-put",
+                  "g3b-u2-spelling-word-on",
+                  "g3b-u2-spelling-word-hat",
+                  "g3b-u2-a-014",
+                  "g3b-u2-spelling-word-sock",
+                  "g3b-u2-a-005",
+                  "g3b-u2-spelling-word-new",
+                  "g3b-u2-spelling-word-school",
+                  "g3b-u2-spelling-word-bag",
+                  "g3b-u2-spelling-word-jacket",
+                  "g3b-u2-spelling-word-sports-shoes"
+                ]
+              },
+              {
+                "id": "g3b-u2-spelling-2",
+                "type": "keyboard-input-basic",
+                "title": "基础输入",
+                "wordIds": [
+                  "g3b-u2-a-007",
+                  "g3b-u2-b-014",
+                  "g3b-u2-spelling-word-nice",
+                  "g3b-u2-spelling-word-but",
+                  "g3b-u2-spelling-word-too",
+                  "g3b-u2-spelling-word-put",
+                  "g3b-u2-spelling-word-on",
+                  "g3b-u2-spelling-word-hat",
+                  "g3b-u2-a-014",
+                  "g3b-u2-spelling-word-sock",
+                  "g3b-u2-spelling-word-new",
+                  "g3b-u2-spelling-word-bag"
+                ]
+              },
+              {
+                "id": "g3b-u2-spelling-3",
+                "type": "keyboard-input-dictation",
+                "title": "课本听写挑战",
+                "description": "这一关更接近学校听写，适合复习后再挑战。",
+                "wordIds": [
+                  "g3b-u2-a-001",
+                  "g3b-u2-a-007",
+                  "g3b-u2-b-014",
+                  "g3b-u2-a-006",
+                  "g3b-u2-a-009",
+                  "g3b-u2-a-015",
+                  "g3b-u2-spelling-word-nice",
+                  "g3b-u2-spelling-word-but",
+                  "g3b-u2-spelling-word-too",
+                  "g3b-u2-spelling-word-put",
+                  "g3b-u2-spelling-word-on",
+                  "g3b-u2-spelling-word-hat",
+                  "g3b-u2-a-014",
+                  "g3b-u2-spelling-word-sock",
+                  "g3b-u2-a-005",
+                  "g3b-u2-spelling-word-new",
+                  "g3b-u2-spelling-word-school",
+                  "g3b-u2-spelling-word-bag",
+                  "g3b-u2-spelling-word-jacket",
+                  "g3b-u2-spelling-word-sports-shoes"
+                ]
+              }
+            ]
+          },
+          "words": [
+            {
+              "id": "g3b-u2-spelling-word-nice",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "nice",
+              "meaning": "好的；漂亮的",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/nice.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-but",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "but",
+              "meaning": "但是",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/but.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-too",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "too",
+              "meaning": "太；也",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/too.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-put",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "put",
+              "meaning": "放；穿",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/put.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-on",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "on",
+              "meaning": "在……上；穿上",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/on.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-hat",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "hat",
+              "meaning": "帽子",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/hat.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-sock",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "sock",
+              "meaning": "短袜",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/sock.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-new",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "new",
+              "meaning": "新的",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/new.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-school",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "school",
+              "meaning": "学校",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/school.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-bag",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "bag",
+              "meaning": "包",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/bag.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-jacket",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "jacket",
+              "meaning": "夹克衫",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/jacket.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u2-spelling-word-sports-shoes",
+              "bookId": "g3b",
+              "unitId": "g3b-u2",
+              "word": "sports shoes",
+              "meaning": "运动鞋",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u2/sports-shoes.mp3",
+              "example": ""
+            }
+          ]
+        },
+        {
+          "id": "g3b-u3",
+          "title": "Time",
+          "displayTitle": "Unit 3 Time",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3b-u3",
+            "name": "时间达人",
+            "description": "完成 Unit 3 主线学习、错词复习和额外挑战后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3b-u3-main-1",
+              "unitId": "g3b-u3",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "整点时间",
+              "order": 1,
+              "words": [
+                {
+                  "id": "g3b-u3-a-001",
+                  "word": "time",
+                  "meaning": "时间",
+                  "priority": "A",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "⏰",
+                  "audio": "assets/audio/g3b-u3/time.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-002",
+                  "word": "eleven",
+                  "meaning": "十一",
+                  "priority": "A",
+                  "tags": [
+                    "number",
+                    "time"
+                  ],
+                  "image": "11",
+                  "audio": "assets/audio/g3b-u3/eleven.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-003",
+                  "word": "o’clock",
+                  "meaning": "点钟",
+                  "priority": "A",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "🕚",
+                  "audio": "assets/audio/g3b-u3/oclock.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-004",
+                  "word": "clock",
+                  "meaning": "钟",
+                  "priority": "A",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "🕰️",
+                  "audio": "assets/audio/g3b-u3/clock.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-005",
+                  "word": "twelve",
+                  "meaning": "十二",
+                  "priority": "A",
+                  "tags": [
+                    "number",
+                    "time"
+                  ],
+                  "image": "12",
+                  "audio": "assets/audio/g3b-u3/twelve.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-main-2",
+              "unitId": "g3b-u3",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "世界城市",
+              "order": 2,
+              "words": [
+                {
+                  "id": "g3b-u3-a-006",
+                  "word": "New York",
+                  "meaning": "纽约",
+                  "priority": "A",
+                  "tags": [
+                    "city"
+                  ],
+                  "image": "🗽",
+                  "audio": "assets/audio/g3b-u3/new-york.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-007",
+                  "word": "London",
+                  "meaning": "伦敦",
+                  "priority": "A",
+                  "tags": [
+                    "city"
+                  ],
+                  "image": "🇬🇧",
+                  "audio": "assets/audio/g3b-u3/london.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-008",
+                  "word": "Tokyo",
+                  "meaning": "东京",
+                  "priority": "A",
+                  "tags": [
+                    "city"
+                  ],
+                  "image": "🗼",
+                  "audio": "assets/audio/g3b-u3/tokyo.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-009",
+                  "word": "Moscow",
+                  "meaning": "莫斯科",
+                  "priority": "A",
+                  "tags": [
+                    "city"
+                  ],
+                  "image": "🏛️",
+                  "audio": "assets/audio/g3b-u3/moscow.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-010",
+                  "word": "Paris",
+                  "meaning": "巴黎",
+                  "priority": "A",
+                  "tags": [
+                    "city"
+                  ],
+                  "image": "🗼",
+                  "audio": "assets/audio/g3b-u3/paris.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-main-3",
+              "unitId": "g3b-u3",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "上午下午",
+              "order": 3,
+              "words": [
+                {
+                  "id": "g3b-u3-a-011",
+                  "word": "thirty",
+                  "meaning": "三十",
+                  "priority": "A",
+                  "tags": [
+                    "number",
+                    "time"
+                  ],
+                  "image": "30",
+                  "audio": "assets/audio/g3b-u3/thirty.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-012",
+                  "word": "a.m.",
+                  "meaning": "上午",
+                  "priority": "A",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "🌅",
+                  "audio": "assets/audio/g3b-u3/am.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-013",
+                  "word": "p.m.",
+                  "meaning": "下午",
+                  "priority": "A",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "🌇",
+                  "audio": "assets/audio/g3b-u3/pm.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-014",
+                  "word": "twenty",
+                  "meaning": "二十",
+                  "priority": "A",
+                  "tags": [
+                    "number",
+                    "time"
+                  ],
+                  "image": "20",
+                  "audio": "assets/audio/g3b-u3/twenty.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-015",
+                  "word": "homework",
+                  "meaning": "家庭作业",
+                  "priority": "A",
+                  "tags": [
+                    "school"
+                  ],
+                  "image": "📚",
+                  "audio": "assets/audio/g3b-u3/homework.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-main-4",
+              "unitId": "g3b-u3",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "日常时间",
+              "order": 4,
+              "words": [
+                {
+                  "id": "g3b-u3-a-016",
+                  "word": "dinner",
+                  "meaning": "正餐；晚餐",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "time"
+                  ],
+                  "image": "🍽️",
+                  "audio": "assets/audio/g3b-u3/dinner.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-017",
+                  "word": "read",
+                  "meaning": "读；阅读",
+                  "priority": "A",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "📖",
+                  "audio": "assets/audio/g3b-u3/read.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-018",
+                  "word": "watch",
+                  "meaning": "观看",
+                  "priority": "A",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "👀",
+                  "audio": "assets/audio/g3b-u3/watch.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-019",
+                  "word": "TV",
+                  "meaning": "电视",
+                  "priority": "A",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "📺",
+                  "audio": "assets/audio/g3b-u3/tv.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-a-020",
+                  "word": "use",
+                  "meaning": "使用",
+                  "priority": "A",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "🧰",
+                  "audio": "assets/audio/g3b-u3/use.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-extra-1",
+              "unitId": "g3b-u3",
+              "type": "extra",
+              "title": "Extra Level 1",
+              "displayTitle": "额外挑战 1",
+              "order": 101,
+              "words": [
+                {
+                  "id": "g3b-u3-b-001",
+                  "word": "hotel",
+                  "meaning": "旅馆",
+                  "priority": "B",
+                  "tags": [
+                    "place"
+                  ],
+                  "image": "🏨",
+                  "audio": "assets/audio/g3b-u3/hotel.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-002",
+                  "word": "sun",
+                  "meaning": "太阳",
+                  "priority": "B",
+                  "tags": [
+                    "nature"
+                  ],
+                  "image": "☀️",
+                  "audio": "assets/audio/g3b-u3/sun.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-003",
+                  "word": "push",
+                  "meaning": "推",
+                  "priority": "B",
+                  "tags": [
+                    "action"
+                  ],
+                  "image": "👉",
+                  "audio": "assets/audio/g3b-u3/push.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-004",
+                  "word": "kid",
+                  "meaning": "孩子",
+                  "priority": "B",
+                  "tags": [
+                    "people"
+                  ],
+                  "image": "🧒",
+                  "audio": "assets/audio/g3b-u3/kid.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-005",
+                  "word": "with",
+                  "meaning": "和；用；具有",
+                  "priority": "B",
+                  "tags": [
+                    "preposition"
+                  ],
+                  "image": "🤝",
+                  "audio": "assets/audio/g3b-u3/with.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-extra-2",
+              "unitId": "g3b-u3",
+              "type": "extra",
+              "title": "Extra Level 2",
+              "displayTitle": "额外挑战 2",
+              "order": 102,
+              "words": [
+                {
+                  "id": "g3b-u3-b-006",
+                  "word": "toy",
+                  "meaning": "玩具",
+                  "priority": "B",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "🧸",
+                  "audio": "assets/audio/g3b-u3/toy.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-007",
+                  "word": "thirteen",
+                  "meaning": "十三",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "13",
+                  "audio": "assets/audio/g3b-u3/thirteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-008",
+                  "word": "fourteen",
+                  "meaning": "十四",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "14",
+                  "audio": "assets/audio/g3b-u3/fourteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-009",
+                  "word": "fifteen",
+                  "meaning": "十五",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "15",
+                  "audio": "assets/audio/g3b-u3/fifteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-010",
+                  "word": "sixteen",
+                  "meaning": "十六",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "16",
+                  "audio": "assets/audio/g3b-u3/sixteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u3-extra-3",
+              "unitId": "g3b-u3",
+              "type": "extra",
+              "title": "Extra Level 3",
+              "displayTitle": "额外挑战 3",
+              "order": 103,
+              "words": [
+                {
+                  "id": "g3b-u3-b-011",
+                  "word": "seventeen",
+                  "meaning": "十七",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "17",
+                  "audio": "assets/audio/g3b-u3/seventeen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-012",
+                  "word": "eighteen",
+                  "meaning": "十八",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "18",
+                  "audio": "assets/audio/g3b-u3/eighteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u3-b-013",
+                  "word": "nineteen",
+                  "meaning": "十九",
+                  "priority": "B",
+                  "tags": [
+                    "number"
+                  ],
+                  "image": "19",
+                  "audio": "assets/audio/g3b-u3/nineteen.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            }
+          ],
+          "bookId": "g3b",
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 3 拼写挑战",
+            "levels": [
+              {
+                "id": "g3b-u3-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序",
+                "wordIds": [
+                  "g3b-u3-a-001",
+                  "g3b-u3-a-002",
+                  "g3b-u3-a-005",
+                  "g3b-u3-a-011",
+                  "g3b-u3-spelling-word-early",
+                  "g3b-u3-spelling-word-late",
+                  "g3b-u3-spelling-word-oclock",
+                  "g3b-u3-spelling-word-home",
+                  "g3b-u3-spelling-word-story",
+                  "g3b-u3-spelling-word-so",
+                  "g3b-u3-spelling-word-much",
+                  "g3b-u3-spelling-word-good-night",
+                  "g3b-u3-spelling-word-to",
+                  "g3b-u3-spelling-word-go",
+                  "g3b-u3-spelling-word-bed",
+                  "g3b-u3-a-018",
+                  "g3b-u3-a-019",
+                  "g3b-u3-a-015",
+                  "g3b-u3-spelling-word-at",
+                  "g3b-u3-spelling-word-past"
+                ]
+              },
+              {
+                "id": "g3b-u3-spelling-2",
+                "type": "keyboard-input-basic",
+                "title": "基础输入",
+                "wordIds": [
+                  "g3b-u3-a-001",
+                  "g3b-u3-spelling-word-early",
+                  "g3b-u3-spelling-word-late",
+                  "g3b-u3-spelling-word-home",
+                  "g3b-u3-spelling-word-story",
+                  "g3b-u3-spelling-word-so",
+                  "g3b-u3-spelling-word-much",
+                  "g3b-u3-spelling-word-to",
+                  "g3b-u3-spelling-word-go",
+                  "g3b-u3-spelling-word-bed",
+                  "g3b-u3-a-018",
+                  "g3b-u3-spelling-word-at",
+                  "g3b-u3-spelling-word-past"
+                ]
+              },
+              {
+                "id": "g3b-u3-spelling-3",
+                "type": "keyboard-input-dictation",
+                "title": "课本听写挑战",
+                "description": "这一关更接近学校听写，适合复习后再挑战。",
+                "wordIds": [
+                  "g3b-u3-a-001",
+                  "g3b-u3-a-002",
+                  "g3b-u3-a-005",
+                  "g3b-u3-a-011",
+                  "g3b-u3-spelling-word-early",
+                  "g3b-u3-spelling-word-late",
+                  "g3b-u3-spelling-word-oclock",
+                  "g3b-u3-spelling-word-home",
+                  "g3b-u3-spelling-word-story",
+                  "g3b-u3-spelling-word-so",
+                  "g3b-u3-spelling-word-much",
+                  "g3b-u3-spelling-word-good-night",
+                  "g3b-u3-spelling-word-to",
+                  "g3b-u3-spelling-word-go",
+                  "g3b-u3-spelling-word-bed",
+                  "g3b-u3-a-018",
+                  "g3b-u3-a-019",
+                  "g3b-u3-a-015",
+                  "g3b-u3-spelling-word-at",
+                  "g3b-u3-spelling-word-past"
+                ]
+              }
+            ]
+          },
+          "words": [
+            {
+              "id": "g3b-u3-spelling-word-early",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "early",
+              "meaning": "早的；早地",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/early.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-late",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "late",
+              "meaning": "迟的；晚的",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/late.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-oclock",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "o'clock",
+              "meaning": "点钟",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/oclock.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-home",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "home",
+              "meaning": "家",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/home.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-story",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "story",
+              "meaning": "故事",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/story.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-so",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "so",
+              "meaning": "这么；如此",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/so.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-much",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "much",
+              "meaning": "许多",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/much.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-good-night",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "good night",
+              "meaning": "晚安",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/good-night.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-to",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "to",
+              "meaning": "到；向",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/to.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-go",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "go",
+              "meaning": "去；走",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/go.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-bed",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "bed",
+              "meaning": "床",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/bed.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-at",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "at",
+              "meaning": "在",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/at.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u3-spelling-word-past",
+              "bookId": "g3b",
+              "unitId": "g3b-u3",
+              "word": "past",
+              "meaning": "经过；过去",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u3/past.mp3",
+              "example": ""
+            }
+          ]
+        },
+        {
+          "id": "g3b-u4",
+          "title": "Healthy Eating",
+          "displayTitle": "Unit 4 Healthy Eating",
+          "status": "available",
+          "badge": {
+            "id": "badge-g3b-u4",
+            "name": "健康饮食达人",
+            "description": "完成 Unit 4 主线学习、错词复习和额外挑战后解锁"
+          },
+          "levels": [
+            {
+              "id": "g3b-u4-main-1",
+              "unitId": "g3b-u4",
+              "type": "main",
+              "title": "Level 1",
+              "displayTitle": "健康早餐",
+              "order": 1,
+              "words": [
+                {
+                  "id": "g3b-u4-a-001",
+                  "word": "healthy",
+                  "meaning": "健康的",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "health"
+                  ],
+                  "image": "💪",
+                  "audio": "assets/audio/g3b-u4/healthy.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-002",
+                  "word": "eat",
+                  "meaning": "吃",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "verb"
+                  ],
+                  "image": "😋",
+                  "audio": "assets/audio/g3b-u4/eat.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-003",
+                  "word": "breakfast",
+                  "meaning": "早餐",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "meal"
+                  ],
+                  "image": "🍳",
+                  "audio": "assets/audio/g3b-u4/breakfast.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-004",
+                  "word": "hungry",
+                  "meaning": "饥饿的",
+                  "priority": "A",
+                  "tags": [
+                    "feeling"
+                  ],
+                  "image": "🤤",
+                  "audio": "assets/audio/g3b-u4/hungry.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-005",
+                  "word": "milk",
+                  "meaning": "牛奶",
+                  "priority": "A",
+                  "tags": [
+                    "drink"
+                  ],
+                  "image": "🥛",
+                  "audio": "assets/audio/g3b-u4/milk.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u4-main-2",
+              "unitId": "g3b-u4",
+              "type": "main",
+              "title": "Level 2",
+              "displayTitle": "午餐饮品",
+              "order": 2,
+              "words": [
+                {
+                  "id": "g3b-u4-a-006",
+                  "word": "bread",
+                  "meaning": "面包",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🍞",
+                  "audio": "assets/audio/g3b-u4/bread.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-007",
+                  "word": "juice",
+                  "meaning": "果汁",
+                  "priority": "A",
+                  "tags": [
+                    "drink"
+                  ],
+                  "image": "🧃",
+                  "audio": "assets/audio/g3b-u4/juice.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-008",
+                  "word": "lunch",
+                  "meaning": "午餐",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "meal"
+                  ],
+                  "image": "🍱",
+                  "audio": "assets/audio/g3b-u4/lunch.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-009",
+                  "word": "hamburger",
+                  "meaning": "汉堡包",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🍔",
+                  "audio": "assets/audio/g3b-u4/hamburger.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-010",
+                  "word": "salad",
+                  "meaning": "沙拉",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🥗",
+                  "audio": "assets/audio/g3b-u4/salad.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u4-main-3",
+              "unitId": "g3b-u4",
+              "type": "main",
+              "title": "Level 3",
+              "displayTitle": "喜欢的味道",
+              "order": 3,
+              "words": [
+                {
+                  "id": "g3b-u4-a-011",
+                  "word": "drink",
+                  "meaning": "喝；饮品",
+                  "priority": "A",
+                  "tags": [
+                    "drink",
+                    "verb"
+                  ],
+                  "image": "🥤",
+                  "audio": "assets/audio/g3b-u4/drink.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-012",
+                  "word": "favorite",
+                  "meaning": "最喜欢的",
+                  "priority": "A",
+                  "tags": [
+                    "adjective"
+                  ],
+                  "image": "⭐",
+                  "audio": "assets/audio/g3b-u4/favorite.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-013",
+                  "word": "sweet",
+                  "meaning": "甜的",
+                  "priority": "A",
+                  "tags": [
+                    "taste"
+                  ],
+                  "image": "🍬",
+                  "audio": "assets/audio/g3b-u4/sweet.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-014",
+                  "word": "fruit",
+                  "meaning": "水果",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🍎",
+                  "audio": "assets/audio/g3b-u4/fruit.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-015",
+                  "word": "food",
+                  "meaning": "食物",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🍲",
+                  "audio": "assets/audio/g3b-u4/food.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u4-main-4",
+              "unitId": "g3b-u4",
+              "type": "main",
+              "title": "Level 4",
+              "displayTitle": "晚餐食物",
+              "order": 4,
+              "words": [
+                {
+                  "id": "g3b-u4-a-016",
+                  "word": "rice",
+                  "meaning": "米；米饭",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🍚",
+                  "audio": "assets/audio/g3b-u4/rice.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-017",
+                  "word": "soup",
+                  "meaning": "汤",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🥣",
+                  "audio": "assets/audio/g3b-u4/soup.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-018",
+                  "word": "chicken",
+                  "meaning": "鸡肉；鸡",
+                  "priority": "A",
+                  "tags": [
+                    "food",
+                    "animal"
+                  ],
+                  "image": "🍗",
+                  "audio": "assets/audio/g3b-u4/chicken.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-019",
+                  "word": "vegetable",
+                  "meaning": "蔬菜",
+                  "priority": "A",
+                  "tags": [
+                    "food"
+                  ],
+                  "image": "🥦",
+                  "audio": "assets/audio/g3b-u4/vegetable.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-a-020",
+                  "word": "some",
+                  "meaning": "一些",
+                  "priority": "A",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "➕",
+                  "audio": "assets/audio/g3b-u4/some.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u4-extra-1",
+              "unitId": "g3b-u4",
+              "type": "extra",
+              "title": "Extra Level 1",
+              "displayTitle": "额外挑战 1",
+              "order": 101,
+              "words": [
+                {
+                  "id": "g3b-u4-b-001",
+                  "word": "picture",
+                  "meaning": "图片",
+                  "priority": "B",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "🖼️",
+                  "audio": "assets/audio/g3b-u4/picture.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-002",
+                  "word": "today",
+                  "meaning": "今天",
+                  "priority": "B",
+                  "tags": [
+                    "time"
+                  ],
+                  "image": "📅",
+                  "audio": "assets/audio/g3b-u4/today.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-003",
+                  "word": "about",
+                  "meaning": "关于；大约",
+                  "priority": "B",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "💬",
+                  "audio": "assets/audio/g3b-u4/about.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-004",
+                  "word": "help",
+                  "meaning": "帮助",
+                  "priority": "B",
+                  "tags": [
+                    "verb"
+                  ],
+                  "image": "🤝",
+                  "audio": "assets/audio/g3b-u4/help.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-005",
+                  "word": "glass",
+                  "meaning": "玻璃杯",
+                  "priority": "B",
+                  "tags": [
+                    "object"
+                  ],
+                  "image": "🥛",
+                  "audio": "assets/audio/g3b-u4/glass.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            },
+            {
+              "id": "g3b-u4-extra-2",
+              "unitId": "g3b-u4",
+              "type": "extra",
+              "title": "Extra Level 2",
+              "displayTitle": "额外挑战 2",
+              "order": 102,
+              "words": [
+                {
+                  "id": "g3b-u4-b-006",
+                  "word": "of",
+                  "meaning": "……的",
+                  "priority": "B",
+                  "tags": [
+                    "basic"
+                  ],
+                  "image": "🔗",
+                  "audio": "assets/audio/g3b-u4/of.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-007",
+                  "word": "Chinese",
+                  "meaning": "中国的；中国人",
+                  "priority": "B",
+                  "tags": [
+                    "culture"
+                  ],
+                  "image": "🇨🇳",
+                  "audio": "assets/audio/g3b-u4/chinese.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                },
+                {
+                  "id": "g3b-u4-b-008",
+                  "word": "idea",
+                  "meaning": "想法；主意",
+                  "priority": "B",
+                  "tags": [
+                    "idea"
+                  ],
+                  "image": "💡",
+                  "audio": "assets/audio/g3b-u4/idea.mp3",
+                  "example": "",
+                  "bookId": "g3b"
+                }
+              ],
+              "bookId": "g3b"
+            }
+          ],
+          "bookId": "g3b",
+          "spellingChallenge": {
+            "enabled": true,
+            "title": "Unit 4 拼写挑战",
+            "levels": [
+              {
+                "id": "g3b-u4-spelling-1",
+                "type": "letter-order",
+                "title": "字母排序",
+                "wordIds": [
+                  "g3b-u4-a-003",
+                  "g3b-u4-a-005",
+                  "g3b-u4-spelling-word-egg",
+                  "g3b-u4-a-006",
+                  "g3b-u4-a-008",
+                  "g3b-u4-a-016",
+                  "g3b-u4-spelling-word-fish",
+                  "g3b-u4-a-019",
+                  "g3b-u4-a-012",
+                  "g3b-u4-a-009",
+                  "g3b-u4-spelling-word-dinner",
+                  "g3b-u4-a-017",
+                  "g3b-u4-a-014",
+                  "g3b-u4-a-020",
+                  "g3b-u4-spelling-word-need",
+                  "g3b-u4-a-015",
+                  "g3b-u4-spelling-word-body",
+                  "g3b-u4-spelling-word-strong",
+                  "g3b-u4-a-001",
+                  "g3b-u4-spelling-word-every"
+                ]
+              },
+              {
+                "id": "g3b-u4-spelling-2",
+                "type": "keyboard-input-basic",
+                "title": "基础输入",
+                "wordIds": [
+                  "g3b-u4-a-005",
+                  "g3b-u4-spelling-word-egg",
+                  "g3b-u4-a-006",
+                  "g3b-u4-a-008",
+                  "g3b-u4-a-016",
+                  "g3b-u4-spelling-word-fish",
+                  "g3b-u4-spelling-word-dinner",
+                  "g3b-u4-a-017",
+                  "g3b-u4-a-014",
+                  "g3b-u4-a-020",
+                  "g3b-u4-spelling-word-need",
+                  "g3b-u4-a-015",
+                  "g3b-u4-spelling-word-body",
+                  "g3b-u4-spelling-word-every"
+                ]
+              },
+              {
+                "id": "g3b-u4-spelling-3",
+                "type": "keyboard-input-dictation",
+                "title": "课本听写挑战",
+                "description": "这一关更接近学校听写，适合复习后再挑战。",
+                "wordIds": [
+                  "g3b-u4-a-003",
+                  "g3b-u4-a-005",
+                  "g3b-u4-spelling-word-egg",
+                  "g3b-u4-a-006",
+                  "g3b-u4-a-008",
+                  "g3b-u4-a-016",
+                  "g3b-u4-spelling-word-fish",
+                  "g3b-u4-a-019",
+                  "g3b-u4-a-012",
+                  "g3b-u4-a-009",
+                  "g3b-u4-spelling-word-dinner",
+                  "g3b-u4-a-017",
+                  "g3b-u4-a-014",
+                  "g3b-u4-a-020",
+                  "g3b-u4-spelling-word-need",
+                  "g3b-u4-a-015",
+                  "g3b-u4-spelling-word-body",
+                  "g3b-u4-spelling-word-strong",
+                  "g3b-u4-a-001",
+                  "g3b-u4-spelling-word-every"
+                ]
+              }
+            ]
+          },
+          "words": [
+            {
+              "id": "g3b-u4-spelling-word-egg",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "egg",
+              "meaning": "鸡蛋",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/egg.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-fish",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "fish",
+              "meaning": "鱼；鱼肉",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/fish.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-dinner",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "dinner",
+              "meaning": "晚餐",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/dinner.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-need",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "need",
+              "meaning": "需要",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/need.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-body",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "body",
+              "meaning": "身体",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/body.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-strong",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "strong",
+              "meaning": "强壮的",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/strong.mp3",
+              "example": ""
+            },
+            {
+              "id": "g3b-u4-spelling-word-every",
+              "bookId": "g3b",
+              "unitId": "g3b-u4",
+              "word": "every",
+              "meaning": "每一；每个",
+              "priority": "B",
+              "source": "dictation",
+              "tags": [
+                "dictation",
+                "spelling"
+              ],
+              "image": "✏️",
+              "audio": "assets/audio/g3b-u4/every.mp3",
+              "example": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

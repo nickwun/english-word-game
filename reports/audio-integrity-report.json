@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-05-09T03:01:41.972Z",
+  "totalWords": 256,
+  "wordsWithAudio": 256,
+  "wordsMissingAudioField": 0,
+  "wordsAudioFileMissing": 0,
+  "duplicateAudioPaths": [
+    {
+      "audio": "assets/audio/g3b-u3/oclock.mp3",
+      "entries": [
+        {
+          "word": "o’clock",
+          "wordId": "g3b-u3-a-003",
+          "unitId": "g3b-u3"
+        },
+        {
+          "word": "o'clock",
+          "wordId": "g3b-u3-spelling-word-oclock",
+          "unitId": "g3b-u3"
+        }
+      ]
+    }
+  ],
+  "spellingWordsWithoutAudio": [],
+  "focusWords": {
+    "hi": {
+      "wordId": "g3a-u1-a-008",
+      "bookId": "g3a",
+      "unitId": "g3a-u1",
+      "audio": "assets/audio/g3a-u1/hi.mp3",
+      "localPath": "/Users/hui/Documents/english-word-game/english-word-game-codex/src/assets/audio/g3a-u1/hi.mp3",
+      "fileExists": true,
+      "bytes": 17664,
+      "browserUrl": "http://localhost:4173/src/assets/audio/g3a-u1/hi.mp3",
+      "browserUrlAccessible": true,
+      "willFallbackToTts": false
+    },
+    "duck": {
+      "wordId": "g3a-u2-a-012",
+      "bookId": "g3a",
+      "unitId": "g3a-u2",
+      "audio": "assets/audio/g3a-u2/duck.mp3",
+      "localPath": "/Users/hui/Documents/english-word-game/english-word-game-codex/src/assets/audio/g3a-u2/duck.mp3",
+      "fileExists": true,
+      "bytes": 12288,
+      "browserUrl": "http://localhost:4173/src/assets/audio/g3a-u2/duck.mp3",
+      "browserUrlAccessible": true,
+      "willFallbackToTts": false
+    }
+  },
+  "problemWords": []
+}
